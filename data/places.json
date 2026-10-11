@@ -1,0 +1,894 @@
+[
+{
+"t": "Victoria Falls",
+"c": "AF"
+},
+{
+"t": "Mount Kilimanjaro",
+"c": "AF"
+},
+{
+"t": "Sahara",
+"c": "AF"
+},
+{
+"t": "Nile",
+"c": "AF"
+},
+{
+"t": "Okavango Delta",
+"c": "AF"
+},
+{
+"t": "Serengeti National Park",
+"c": "AF"
+},
+{
+"t": "Ngorongoro Conservation Area",
+"c": "AF"
+},
+{
+"t": "Table Mountain",
+"c": "AF"
+},
+{
+"t": "Cape of Good Hope",
+"c": "AF"
+},
+{
+"t": "Namib Desert",
+"c": "AF"
+},
+{
+"t": "Sossusvlei",
+"c": "AF"
+},
+{
+"t": "Lake Malawi",
+"c": "AF"
+},
+{
+"t": "Mount Kenya",
+"c": "AF"
+},
+{
+"t": "Aït Benhaddou",
+"c": "AF"
+},
+{
+"t": "Chefchaouen",
+"c": "AF"
+},
+{
+"t": "Marrakesh",
+"c": "AF"
+},
+{
+"t": "Essaouira",
+"c": "AF"
+},
+{
+"t": "Todgha Gorges",
+"c": "AF"
+},
+{
+"t": "Ouzoud Falls",
+"c": "AF"
+},
+{
+"t": "Toubkal",
+"c": "AF"
+},
+{
+"t": "Merzouga",
+"c": "AF"
+},
+{
+"t": "Hassan II Mosque",
+"c": "AF"
+},
+{
+"t": "Volubilis",
+"c": "AF"
+},
+{
+"t": "Atlas Mountains",
+"c": "AF"
+},
+{
+"t": "Erg Chebbi",
+"c": "AF"
+},
+{
+"t": "Zanzibar",
+"c": "AF"
+},
+{
+"t": "Lake Victoria",
+"c": "AF"
+},
+{
+"t": "Congo River",
+"c": "AF"
+},
+{
+"t": "Avenue of the Baobabs",
+"c": "AF"
+},
+{
+"t": "Great Mosque of Djenné",
+"c": "AF"
+},
+{
+"t": "Timbuktu",
+"c": "AF"
+},
+{
+"t": "Fez, Morocco",
+"c": "AF"
+},
+{
+"t": "Blue Nile Falls",
+"c": "AF"
+},
+{
+"t": "Etosha National Park",
+"c": "AF"
+},
+{
+"t": "Kruger National Park",
+"c": "AF"
+},
+{
+"t": "Drakensberg",
+"c": "AF"
+},
+{
+"t": "Lake Retba",
+"c": "AF"
+},
+{
+"t": "Danakil Depression",
+"c": "AF"
+},
+{
+"t": "Mount Nyiragongo",
+"c": "AF"
+},
+{
+"t": "Mount Everest",
+"c": "AS"
+},
+{
+"t": "Mount Fuji",
+"c": "AS"
+},
+{
+"t": "Taj Mahal",
+"c": "AS"
+},
+{
+"t": "Great Wall of China",
+"c": "AS"
+},
+{
+"t": "Petra",
+"c": "AS"
+},
+{
+"t": "Burj Khalifa",
+"c": "AS"
+},
+{
+"t": "Dead Sea",
+"c": "AS"
+},
+{
+"t": "Lake Baikal",
+"c": "AS"
+},
+{
+"t": "Ha Long Bay",
+"c": "AS"
+},
+{
+"t": "Zhangjiajie National Forest Park",
+"c": "AS"
+},
+{
+"t": "Li River",
+"c": "AS"
+},
+{
+"t": "Huangshan",
+"c": "AS"
+},
+{
+"t": "Raja Ampat Islands",
+"c": "AS"
+},
+{
+"t": "Komodo National Park",
+"c": "AS"
+},
+{
+"t": "Maldives",
+"c": "AS"
+},
+{
+"t": "Puerto Princesa Subterranean River National Park",
+"c": "AS"
+},
+{
+"t": "Hunza Valley",
+"c": "AS"
+},
+{
+"t": "K2",
+"c": "AS"
+},
+{
+"t": "Annapurna",
+"c": "AS"
+},
+{
+"t": "Wadi Rum",
+"c": "AS"
+},
+{
+"t": "Cappadocia",
+"c": "AS"
+},
+{
+"t": "Pamukkale",
+"c": "AS"
+},
+{
+"t": "Mount Ararat",
+"c": "AS"
+},
+{
+"t": "Sheikh Zayed Grand Mosque",
+"c": "AS"
+},
+{
+"t": "Petronas Towers",
+"c": "AS"
+},
+{
+"t": "Gardens by the Bay",
+"c": "AS"
+},
+{
+"t": "Registan",
+"c": "AS"
+},
+{
+"t": "Bukhara",
+"c": "AS"
+},
+{
+"t": "Palm Jumeirah",
+"c": "AS"
+},
+{
+"t": "AlUla",
+"c": "AS"
+},
+{
+"t": "Hegra Archaeological Site",
+"c": "AS"
+},
+{
+"t": "Mount Damavand",
+"c": "AS"
+},
+{
+"t": "Lake Toba",
+"c": "AS"
+},
+{
+"t": "Mount Bromo",
+"c": "AS"
+},
+{
+"t": "Phi Phi Islands",
+"c": "AS"
+},
+{
+"t": "Jeju Island",
+"c": "AS"
+},
+{
+"t": "Burj Al Arab",
+"c": "AS"
+},
+{
+"t": "Jiuzhaigou Valley",
+"c": "AS"
+},
+{
+"t": "Socotra",
+"c": "AS"
+},
+{
+"t": "Thar Desert",
+"c": "AS"
+},
+{
+"t": "Gobi Desert",
+"c": "AS"
+},
+{
+"t": "Mount Kinabalu",
+"c": "AS"
+},
+{
+"t": "Three Gorges Dam",
+"c": "AS"
+},
+{
+"t": "Shanghai Tower",
+"c": "AS"
+},
+{
+"t": "Tokyo Skytree",
+"c": "AS"
+},
+{
+"t": "Matterhorn",
+"c": "EU"
+},
+{
+"t": "Santorini",
+"c": "EU"
+},
+{
+"t": "Alhambra",
+"c": "EU"
+},
+{
+"t": "Plitvice Lakes National Park",
+"c": "EU"
+},
+{
+"t": "Lake Bled",
+"c": "EU"
+},
+{
+"t": "Cinque Terre",
+"c": "EU"
+},
+{
+"t": "Dolomites",
+"c": "EU"
+},
+{
+"t": "Mont Blanc",
+"c": "EU"
+},
+{
+"t": "Neuschwanstein Castle",
+"c": "EU"
+},
+{
+"t": "Colosseum",
+"c": "EU"
+},
+{
+"t": "Pompeii",
+"c": "EU"
+},
+{
+"t": "Mount Etna",
+"c": "EU"
+},
+{
+"t": "Geirangerfjord",
+"c": "EU"
+},
+{
+"t": "Lofoten",
+"c": "EU"
+},
+{
+"t": "Gullfoss",
+"c": "EU"
+},
+{
+"t": "Skógafoss",
+"c": "EU"
+},
+{
+"t": "Jökulsárlón",
+"c": "EU"
+},
+{
+"t": "Giant's Causeway",
+"c": "EU"
+},
+{
+"t": "Cliffs of Moher",
+"c": "EU"
+},
+{
+"t": "Loch Ness",
+"c": "EU"
+},
+{
+"t": "Isle of Skye",
+"c": "EU"
+},
+{
+"t": "Park Güell",
+"c": "EU"
+},
+{
+"t": "Venice",
+"c": "EU"
+},
+{
+"t": "Amalfi Coast",
+"c": "EU"
+},
+{
+"t": "Lake Como",
+"c": "EU"
+},
+{
+"t": "Hallstatt",
+"c": "EU"
+},
+{
+"t": "Bran Castle",
+"c": "EU"
+},
+{
+"t": "Mount Olympus",
+"c": "EU"
+},
+{
+"t": "Białowieża Forest",
+"c": "EU"
+},
+{
+"t": "Danube Delta",
+"c": "EU"
+},
+{
+"t": "Ordesa y Monte Perdido National Park",
+"c": "EU"
+},
+{
+"t": "Alcázar of Seville",
+"c": "EU"
+},
+{
+"t": "Eiffel Tower",
+"c": "EU"
+},
+{
+"t": "Mount Vesuvius",
+"c": "EU"
+},
+{
+"t": "Upper Middle Rhine Valley",
+"c": "EU"
+},
+{
+"t": "Eisriesenwelt",
+"c": "EU"
+},
+{
+"t": "Zugspitze",
+"c": "EU"
+},
+{
+"t": "Lake Garda",
+"c": "EU"
+},
+{
+"t": "Cabo da Roca",
+"c": "EU"
+},
+{
+"t": "Madeira",
+"c": "EU"
+},
+{
+"t": "Azores",
+"c": "EU"
+},
+{
+"t": "Palace of Versailles",
+"c": "EU"
+},
+{
+"t": "Brandenburg Gate",
+"c": "EU"
+},
+{
+"t": "Tower Bridge",
+"c": "EU"
+},
+{
+"t": "Charles Bridge",
+"c": "EU"
+},
+{
+"t": "Louvre",
+"c": "EU"
+},
+{
+"t": "Trevi Fountain",
+"c": "EU"
+},
+{
+"t": "Pont du Gard",
+"c": "EU"
+},
+{
+"t": "Grand Canyon",
+"c": "NA"
+},
+{
+"t": "Niagara Falls",
+"c": "NA"
+},
+{
+"t": "Yellowstone National Park",
+"c": "NA"
+},
+{
+"t": "Yosemite National Park",
+"c": "NA"
+},
+{
+"t": "Banff National Park",
+"c": "NA"
+},
+{
+"t": "Lake Louise (Alberta)",
+"c": "NA"
+},
+{
+"t": "Monument Valley",
+"c": "NA"
+},
+{
+"t": "Antelope Canyon",
+"c": "NA"
+},
+{
+"t": "Arches National Park",
+"c": "NA"
+},
+{
+"t": "Zion National Park",
+"c": "NA"
+},
+{
+"t": "Bryce Canyon National Park",
+"c": "NA"
+},
+{
+"t": "Glacier National Park (U.S.)",
+"c": "NA"
+},
+{
+"t": "Denali",
+"c": "NA"
+},
+{
+"t": "Death Valley",
+"c": "NA"
+},
+{
+"t": "Golden Gate Bridge",
+"c": "NA"
+},
+{
+"t": "Statue of Liberty",
+"c": "NA"
+},
+{
+"t": "Kīlauea",
+"c": "NA"
+},
+{
+"t": "Everglades National Park",
+"c": "NA"
+},
+{
+"t": "Copper Canyon",
+"c": "NA"
+},
+{
+"t": "Great Blue Hole",
+"c": "NA"
+},
+{
+"t": "Moraine Lake",
+"c": "NA"
+},
+{
+"t": "Bay of Fundy",
+"c": "NA"
+},
+{
+"t": "Havasu Falls",
+"c": "NA"
+},
+{
+"t": "Horseshoe Bend",
+"c": "NA"
+},
+{
+"t": "Yosemite Falls",
+"c": "NA"
+},
+{
+"t": "CN Tower",
+"c": "NA"
+},
+{
+"t": "Hoover Dam",
+"c": "NA"
+},
+{
+"t": "Crater Lake",
+"c": "NA"
+},
+{
+"t": "Mammoth Cave National Park",
+"c": "NA"
+},
+{
+"t": "Carlsbad Caverns National Park",
+"c": "NA"
+},
+{
+"t": "Haleakalā",
+"c": "NA"
+},
+{
+"t": "Lake Tahoe",
+"c": "NA"
+},
+{
+"t": "Sequoia National Park",
+"c": "NA"
+},
+{
+"t": "Redwood National and State Parks",
+"c": "NA"
+},
+{
+"t": "Hopewell Rocks",
+"c": "NA"
+},
+{
+"t": "Gros Morne National Park",
+"c": "NA"
+},
+{
+"t": "Machu Picchu",
+"c": "SA"
+},
+{
+"t": "Iguazu Falls",
+"c": "SA"
+},
+{
+"t": "Angel Falls",
+"c": "SA"
+},
+{
+"t": "Salar de Uyuni",
+"c": "SA"
+},
+{
+"t": "Lake Titicaca",
+"c": "SA"
+},
+{
+"t": "Amazon River",
+"c": "SA"
+},
+{
+"t": "Torres del Paine National Park",
+"c": "SA"
+},
+{
+"t": "Perito Moreno Glacier",
+"c": "SA"
+},
+{
+"t": "Atacama Desert",
+"c": "SA"
+},
+{
+"t": "Galápagos Islands",
+"c": "SA"
+},
+{
+"t": "Mount Fitz Roy",
+"c": "SA"
+},
+{
+"t": "Vinicunca",
+"c": "SA"
+},
+{
+"t": "Huacachina",
+"c": "SA"
+},
+{
+"t": "Los Glaciares National Park",
+"c": "SA"
+},
+{
+"t": "Lençóis Maranhenses National Park",
+"c": "SA"
+},
+{
+"t": "Sugarloaf Mountain",
+"c": "SA"
+},
+{
+"t": "Pantanal",
+"c": "SA"
+},
+{
+"t": "Colca Canyon",
+"c": "SA"
+},
+{
+"t": "Tayrona National Natural Park",
+"c": "SA"
+},
+{
+"t": "Cocora Valley",
+"c": "SA"
+},
+{
+"t": "Mount Roraima",
+"c": "SA"
+},
+{
+"t": "Aconcagua",
+"c": "SA"
+},
+{
+"t": "Cotopaxi",
+"c": "SA"
+},
+{
+"t": "Quilotoa",
+"c": "SA"
+},
+{
+"t": "Kaieteur Falls",
+"c": "SA"
+},
+{
+"t": "Tierra del Fuego",
+"c": "SA"
+},
+{
+"t": "Uluru",
+"c": "OC"
+},
+{
+"t": "Great Barrier Reef",
+"c": "OC"
+},
+{
+"t": "Milford Sound",
+"c": "OC"
+},
+{
+"t": "Bora Bora",
+"c": "OC"
+},
+{
+"t": "Sydney Opera House",
+"c": "OC"
+},
+{
+"t": "Twelve Apostles (Victoria)",
+"c": "OC"
+},
+{
+"t": "K'gari",
+"c": "OC"
+},
+{
+"t": "Whitsunday Islands",
+"c": "OC"
+},
+{
+"t": "Kakadu National Park",
+"c": "OC"
+},
+{
+"t": "Tongariro National Park",
+"c": "OC"
+},
+{
+"t": "Franz Josef Glacier",
+"c": "OC"
+},
+{
+"t": "Aoraki / Mount Cook",
+"c": "OC"
+},
+{
+"t": "Lake Tekapo",
+"c": "OC"
+},
+{
+"t": "Moorea",
+"c": "OC"
+},
+{
+"t": "Rock Islands Southern Lagoon",
+"c": "OC"
+},
+{
+"t": "Blue Mountains (New South Wales)",
+"c": "OC"
+},
+{
+"t": "Wave Rock",
+"c": "OC"
+},
+{
+"t": "Nambung National Park",
+"c": "OC"
+},
+{
+"t": "Bungle Bungle Range",
+"c": "OC"
+},
+{
+"t": "Lake Hillier",
+"c": "OC"
+},
+{
+"t": "Ningaloo Coast",
+"c": "OC"
+},
+{
+"t": "Cradle Mountain",
+"c": "OC"
+},
+{
+"t": "Mount Taranaki",
+"c": "OC"
+},
+{
+"t": "Waitomo Caves",
+"c": "OC"
+},
+{
+"t": "Mount Erebus",
+"c": "AN"
+},
+{
+"t": "Antarctic Peninsula",
+"c": "AN"
+},
+{
+"t": "Vinson Massif",
+"c": "AN"
+},
+{
+"t": "Deception Island",
+"c": "AN"
+},
+{
+"t": "South Georgia Island",
+"c": "AN"
+}
+]
