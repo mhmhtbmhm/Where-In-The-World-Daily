@@ -1,10 +1,10 @@
 name: place-of-the-day
 on:
-  schedule:
-    - cron: "10 6 * * *"
-    - cron: "10 12 * * *"
-    - cron: "10 18 * * *"
+  repository_dispatch:
+    types: [run]
   workflow_dispatch:
+  schedule:
+    - cron: "40 19 * * *"   # احتياط يومي إن فشل cron-job.org
 concurrency:
   group: pod
   cancel-in-progress: false
@@ -32,6 +32,7 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_EN: ${{ secrets.YT_REFRESH_EN }}
+          YT_REFRESH_AR: ${{ secrets.YT_REFRESH_AR }}
         run: python src/main.py
       - name: Save state
         run: |
