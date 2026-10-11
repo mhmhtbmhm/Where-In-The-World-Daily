@@ -2,7 +2,7 @@
 import io, re, requests
 from PIL import Image
 
-UA = {"User-Agent": "PlaceOfTheDayBot/1.0 (https://github.com/YOUR-USER/YOUR-REPO; replace with your contact)"}
+UA = {"User-Agent": "WhereInTheWorldDailyBot/1.0 (https://github.com/mhmhtbmhm/Where-In-The-World-Daily)"}
 S = requests.Session(); S.headers.update(UA)
 RELIGIOUS = re.compile(r"church|cathedral|temple|synagogue|monastery|abbey|pagoda|shrine|basilica|stupa|chapel|convent|"
                        r"cemetery|casino|nightclub|red-light|gambling|pilgrimage", re.I)
