@@ -1,16 +1,27 @@
 {
 "en": {
 "done": [
-"Great Barrier Reef"
+"Great Barrier Reef",
+"AlUla"
 ],
 "done_q": [
-"Q7343"
+"Q7343",
+"Q27242"
 ],
-"fail": {},
+"fail": {
+"Mount Nyiragongo": 1,
+"Cliffs of Moher": 1
+},
 "recent": [
 "OC"
 ],
 "day": "2026-10-12",
-"count": 1
+"count": 1,
+"_claim": [
+"AlUla",
+"Q27242",
+"building",
+"23b0c2d9e536"
+]
 }
 }
