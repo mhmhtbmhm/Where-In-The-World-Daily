@@ -5,7 +5,9 @@ from geo import font
 
 W, H, FPS = 1080, 1920, 25
 ACC, WHITE, LIGHT = (255, 196, 61), (255, 255, 255), (214, 224, 238)
-VOICES = {"en": ["en-US-AndrewNeural", "en-US-GuyNeural"]}
+VOICES = {"en": ["en-US-AndrewNeural", "en-US-GuyNeural"], "ar": ["ar-SA-HamedNeural", "ar-EG-ShakirNeural"]}
+STR = {"en": {"where": "WHERE IN THE WORLD?", "photo": "Photo", "src": "Wikimedia Commons", "sep": " & ", "out": "Map: Natural Earth · Data: Wikidata"},
+       "ar": {"where": "أين هذا المكان؟", "photo": "الصورة", "src": "ويكيميديا كومنز", "sep": " و", "out": "الخريطة: Natural Earth · البيانات: Wikidata"}}
 GAP, LEAD, TAIL = 0.45, 0.45, 0.5
 
 
@@ -120,7 +122,7 @@ def compose_base(photo, name, line2, credit, lang):
     base = bg.convert("RGB")
     text_c(base, 92, name, 84, WHITE, lang)
     text_c(base, 196, line2, 44, ACC, lang, stroke=4)
-    text_c(base, 1838, credit, 26, LIGHT, "en", maxw=1000, stroke=3)
+    text_c(base, 1838, credit, 26, LIGHT, lang, maxw=1000, stroke=3)
     return base
 
 
@@ -175,9 +177,9 @@ def render_scene(kind, out, wav, tl, T, lang, ctx):
         for i in range(n):
             t = i / FPS; e = ease(t / max(T - 0.15, 0.1))
             s = s0 * (s1 / s0) ** e if kind == "map" else s0 * (s1 / s0) ** e
-            img = world.render(W, H, p["lat"], p["lon"], s, country, ACC, pin=1.0 + 0.12 * math.sin(2 * math.pi * t), labels=True)
+            img = world.render(W, H, p["lat"], p["lon"], s, country, ACC, pin=1.0 + 0.12 * math.sin(2 * math.pi * t), labels=True, lang=lang)
             if kind == "map" and t < reveal_t - 0.1:
-                text_c(img, 150, "WHERE IN THE WORLD?", 76, WHITE, lang)
+                text_c(img, 150, STR[lang]["where"], 76, WHITE, lang)
             else:
                 text_c(img, 120, p["name"], 84, WHITE, lang)
                 text_c(img, 226, ctx["line2"], 46, ACC, lang, stroke=4)
@@ -185,7 +187,7 @@ def render_scene(kind, out, wav, tl, T, lang, ctx):
                 coord = f"{ns:.4f}° {'N' if p['lat'] >= 0 else 'S'},  {ew:.4f}° {'E' if p['lon'] >= 0 else 'W'}"
                 text_c(img, 1790, coord, 44, LIGHT, "en", stroke=4)
             if kind == "outro":
-                text_c(img, 1850, "Map: Natural Earth · Data: Wikidata", 24, LIGHT, "en", stroke=3)
+                text_c(img, 1850, STR[lang]["out"], 24, LIGHT, lang, stroke=3)
             sub = current_sub(tl, t, cache, lang)
             if sub:
                 img = img.convert("RGBA"); img.alpha_composite(sub, (0, 1180)); img = img.convert("RGB")
@@ -209,7 +211,7 @@ def build_video(place, photos, world, story_parts, lang, workdir, out, silent=Fa
         take = (k - i) // (n - j) + (1 if (k - i) % (n - j) else 0)
         chunks.append(facts[i:i + take]); i += take
     country = place["countries"][0] if place["countries"] else None
-    line2 = ((place["admin"] + " · ") if place["admin"] else "") + " & ".join(place["countries"])
+    line2 = ((place["admin"] + " · ") if place["admin"] else "") + STR[lang]["sep"].join(place["countries"])
     ctx_common = {"place": place, "world": world, "highlight": country, "line2": line2, "s_end": end_scale(place.get("area"))}
     plan = [("map", [hook, reveal])] + [("photo", c) for c in chunks if c] + [("outro", [closing])]
     clips, total, pi = [], 0.0, 0
@@ -217,7 +219,7 @@ def build_video(place, photos, world, story_parts, lang, workdir, out, silent=Fa
         wav, tl, T = build_scene_audio(sents, lang, workdir, f"s{idx}", silent)
         ctx = dict(ctx_common)
         if kind == "photo":
-            ph = photos[pi]; credit = f"Photo: {ph['artist']} · {ph['lic']} · Wikimedia Commons"
+            ph = photos[pi]; credit = f"{STR[lang]['photo']}: {ph['artist']} · {ph['lic']} · {STR[lang]['src']}"
             ctx["base"] = compose_base(ph["img"], place["name"], line2, credit, lang); ctx["mv"] = pi % 3; pi += 1
         clip = os.path.join(workdir, f"clip{idx}.mp4")
         render_scene(kind, clip, wav, tl, T, lang, ctx); clips.append(clip); total += T

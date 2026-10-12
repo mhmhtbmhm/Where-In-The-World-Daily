@@ -26,6 +26,16 @@ def bearing(lat1, lon1, lat2, lon2):
     return (math.degrees(math.atan2(y, x)) + 360) % 360
 
 
+def shape_ar(t):
+    import arabic_reshaper
+    from bidi.algorithm import get_display
+    return get_display(arabic_reshaper.reshape(t))
+
+
+def compass_i(b):
+    return int((b + 22.5) // 45) % 8
+
+
 def compass(b):
     return ["north", "northeast", "east", "southeast", "south", "southwest", "west", "northwest"][int((b + 22.5) // 45) % 8]
 
@@ -54,12 +64,9 @@ class World:
                               "mybb": (my.min(), my.max())})
             pr = f["properties"]
             self.countries.append({"name": pr.get("NAME") or pr.get("ADMIN"), "rings": rings})
-        pl = json.load(open(os.path.join(data_dir, "ne_10m_populated_places_simple.geojson"), encoding="utf-8"))
-        n, lo, la, pp = [], [], [], []
-        for f in pl["features"]:
-            p = f["properties"]; x, y = f["geometry"]["coordinates"][:2]
-            n.append(p.get("name") or ""); lo.append(x); la.append(y); pp.append(p.get("pop_max") or 0)
-        self.p_name, self.p_lon, self.p_lat, self.p_pop = np.array(n), np.array(lo), np.array(la), np.array(pp)
+        self.places = json.load(open(os.path.join(data_dir, "ne_places.json"), encoding="utf-8"))
+        self.p_lon = np.array([x["lon"] for x in self.places]); self.p_lat = np.array([x["lat"] for x in self.places])
+        self.p_pop = np.array([x["pop"] for x in self.places])
         self._bg = {}
 
     def country_at(self, lat, lon):
@@ -70,13 +77,16 @@ class World:
                     return c["name"]
         return None
 
-    def nearest_city(self, lat, lon, min_pop=20000):
-        m = self.p_pop >= min_pop
-        la, lo = np.radians(self.p_lat[m]), np.radians(self.p_lon[m])
+    def pname(self, i, lang="en"):
+        x = self.places[int(i)]
+        return x.get(lang) or x["en"]
+
+    def nearest_city(self, lat, lon, lang="en", min_pop=20000):
+        idx = np.where(self.p_pop >= min_pop)[0]
+        la, lo = np.radians(self.p_lat[idx]), np.radians(self.p_lon[idx])
         a = np.sin((la - math.radians(lat)) / 2) ** 2 + math.cos(math.radians(lat)) * np.cos(la) * np.sin((lo - math.radians(lon)) / 2) ** 2
-        d = 6371 * 2 * np.arcsin(np.sqrt(a)); i = int(np.argmin(d))
-        clat, clon = float(self.p_lat[m][i]), float(self.p_lon[m][i])
-        return str(self.p_name[m][i]), float(d[i]), bearing(clat, clon, lat, lon)
+        d = 6371 * 2 * np.arcsin(np.sqrt(a)); k = int(np.argmin(d)); j = int(idx[k])
+        return self.pname(j, lang), float(d[k]), bearing(float(self.p_lat[j]), float(self.p_lon[j]), lat, lon)
 
     def background(self, W, H):
         if (W, H) not in self._bg:
@@ -84,7 +94,7 @@ class World:
             self._bg[(W, H)] = Image.fromarray(np.repeat(col[:, None, :], W, axis=1))
         return self._bg[(W, H)].copy()
 
-    def render(self, W, H, clat, clon, s, highlight=None, accent=(255, 196, 61), pin=1.0, labels=True):
+    def render(self, W, H, clat, clon, s, highlight=None, accent=(255, 196, 61), pin=1.0, labels=True, lang="en"):
         img = self.background(W, H); d = ImageDraw.Draw(img)
         k = s * 180 / math.pi; cmy = merc(clat)
         lon0, lon1 = clon - W / 2 / s, clon + W / 2 / s
@@ -116,7 +126,8 @@ class World:
                         and all(abs(x - a) > 220 or abs(y - b) > 50 for a, b in placed):
                     placed.append((x, y))
                     d.ellipse([x - 6, y - 6, x + 6, y + 6], fill=(230, 235, 245))
-                    d.text((x + 12, y - 16), str(self.p_name[i]), font=f, fill=(235, 240, 250), stroke_width=3, stroke_fill=(6, 14, 28))
+                    nm = shape_ar(self.pname(i, lang)) if lang == "ar" else self.pname(i, lang)
+                    d.text((x + 12, y - 16), nm, font=f, fill=(235, 240, 250), stroke_width=3, stroke_fill=(6, 14, 28))
         if pin > 0:
             cx, cy = W / 2, H / 2; r = 16 * pin
             d.ellipse([cx - r * 2.6, cy - r * 2.6, cx + r * 2.6, cy + r * 2.6], outline=accent, width=4)

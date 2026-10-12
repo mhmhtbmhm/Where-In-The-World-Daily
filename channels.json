@@ -1,3 +1,9 @@
 [
-  {"id": "en", "lang": "en", "name": "Place of the Day", "desc_footer": ""}
+  {
+    "id": "en",
+    "lang": "en",
+    "name": "Where In The World Daily",
+    "channel_id": "",
+    "desc_footer": "A new place every day. Subscribe to guess the next one!\nAutomated channel with a synthesized voice. Photo credits are listed above."
+  }
 ]

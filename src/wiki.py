@@ -112,7 +112,7 @@ def fetch_place(title, lang, world):
     if pc:
         try: pop = float(pc["mainsnak"]["datavalue"]["value"]["amount"])
         except Exception: pass
-    inc = claims(e, "P571"); city = world.nearest_city(lat, lon)
+    inc = claims(e, "P571"); city = world.nearest_city(lat, lon, lang)
     admin = lab.get(admin_ids[0]) if admin_ids else None
     p = {"qid": qid, "name": name, "lat": lat, "lon": lon, "countries": countries,
          "admin": admin if admin and len(admin) < 30 and not admin[0].isdigit() and admin not in countries and admin != name else None,
