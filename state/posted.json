@@ -2,11 +2,13 @@
 "en": {
 "done": [
 "Great Barrier Reef",
-"AlUla"
+"AlUla",
+"Zanzibar"
 ],
 "done_q": [
 "Q7343",
-"Q27242"
+"Q27242",
+"Q1774"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -16,7 +18,13 @@
 "OC",
 "AS"
 ],
-"day": "2026-10-12",
-"count": 2
+"day": "2026-10-13",
+"count": 0,
+"_claim": [
+"Zanzibar",
+"Q1774",
+"building",
+"166d8a24ca34"
+]
 }
 }
