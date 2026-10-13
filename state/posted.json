@@ -3,16 +3,19 @@
 "done": [
 "Great Barrier Reef",
 "AlUla",
-"Zanzibar"
+"Zanzibar",
+"Whitsunday Islands"
 ],
 "done_q": [
 "Q7343",
 "Q27242",
-"Q1774"
+"Q1774",
+"Q1646461"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
-"Cliffs of Moher": 1
+"Cliffs of Moher": 1,
+"Death Valley": 1
 },
 "recent": [
 "OC",
@@ -20,6 +23,12 @@
 "AF"
 ],
 "day": "2026-10-13",
-"count": 1
+"count": 1,
+"_claim": [
+"Whitsunday Islands",
+"Q1646461",
+"building",
+"acf2bf7012e0"
+]
 }
 }
