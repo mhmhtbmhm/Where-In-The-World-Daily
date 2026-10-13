@@ -4,18 +4,20 @@
 "Great Barrier Reef",
 "AlUla",
 "Zanzibar",
-"Whitsunday Islands"
+"Whitsunday Islands",
+"Amazon River"
 ],
 "done_q": [
 "Q7343",
 "Q27242",
 "Q1774",
-"Q1646461"
+"Q1646461",
+"Q3783"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
 "Cliffs of Moher": 1,
-"Death Valley": 1
+"Death Valley": 2
 },
 "recent": [
 "OC",
@@ -24,6 +26,12 @@
 "OC"
 ],
 "day": "2026-10-13",
-"count": 2
+"count": 2,
+"_claim": [
+"Amazon River",
+"Q3783",
+"building",
+"5d818d553233"
+]
 }
 }
