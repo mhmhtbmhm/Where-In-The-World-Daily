@@ -6,7 +6,8 @@
 "Zanzibar",
 "Whitsunday Islands",
 "Amazon River",
-"Park G\u00fcell"
+"Park G\u00fcell",
+"Congo River"
 ],
 "done_q": [
 "Q7343",
@@ -14,12 +15,15 @@
 "Q1774",
 "Q1646461",
 "Q3783",
-"Q212867"
+"Q212867",
+"Q3503"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
 "Cliffs of Moher": 1,
-"Death Valley": 2
+"Death Valley": 2,
+"Sossusvlei": 1,
+"Antelope Canyon": 1
 },
 "recent": [
 "OC",
@@ -30,6 +34,12 @@
 "EU"
 ],
 "day": "2026-10-14",
-"count": 1
+"count": 1,
+"_claim": [
+"Congo River",
+"Q3503",
+"building",
+"742a61c6615a"
+]
 }
 }
