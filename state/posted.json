@@ -7,7 +7,8 @@
 "Whitsunday Islands",
 "Amazon River",
 "Park G\u00fcell",
-"Congo River"
+"Congo River",
+"Machu Picchu"
 ],
 "done_q": [
 "Q7343",
@@ -16,7 +17,8 @@
 "Q1646461",
 "Q3783",
 "Q212867",
-"Q3503"
+"Q3503",
+"Q676203"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -34,6 +36,12 @@
 "AF"
 ],
 "day": "2026-10-14",
-"count": 2
+"count": 2,
+"_claim": [
+"Machu Picchu",
+"Q676203",
+"building",
+"c23af1cc65d9"
+]
 }
 }
