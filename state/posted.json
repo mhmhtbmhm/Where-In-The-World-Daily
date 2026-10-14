@@ -5,14 +5,16 @@
 "AlUla",
 "Zanzibar",
 "Whitsunday Islands",
-"Amazon River"
+"Amazon River",
+"Park G\u00fcell"
 ],
 "done_q": [
 "Q7343",
 "Q27242",
 "Q1774",
 "Q1646461",
-"Q3783"
+"Q3783",
+"Q212867"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -26,7 +28,13 @@
 "OC",
 "SA"
 ],
-"day": "2026-10-13",
-"count": 3
+"day": "2026-10-14",
+"count": 0,
+"_claim": [
+"Park G\u00fcell",
+"Q212867",
+"building",
+"fa20af2be84d"
+]
 }
 }
