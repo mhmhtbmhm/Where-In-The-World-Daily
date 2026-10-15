@@ -10,7 +10,8 @@
 "Congo River",
 "Machu Picchu",
 "Blue Mountains (New South Wales)",
-"Hoover Dam"
+"Hoover Dam",
+"Petra"
 ],
 "done_q": [
 "Q7343",
@@ -22,7 +23,8 @@
 "Q3503",
 "Q676203",
 "Q667529",
-"Q172822"
+"Q172822",
+"Q5788"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -30,8 +32,8 @@
 "Death Valley": 2,
 "Sossusvlei": 1,
 "Antelope Canyon": 1,
-"Mont Blanc": 1,
-"Annapurna": 1
+"Mont Blanc": 2,
+"Annapurna": 2
 },
 "recent": [
 "SA",
@@ -42,6 +44,12 @@
 "NA"
 ],
 "day": "2026-10-15",
-"count": 2
+"count": 2,
+"_claim": [
+"Petra",
+"Q5788",
+"building",
+"031120bc7045"
+]
 }
 }
