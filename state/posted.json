@@ -9,7 +9,8 @@
 "Park G\u00fcell",
 "Congo River",
 "Machu Picchu",
-"Blue Mountains (New South Wales)"
+"Blue Mountains (New South Wales)",
+"Hoover Dam"
 ],
 "done_q": [
 "Q7343",
@@ -20,14 +21,17 @@
 "Q212867",
 "Q3503",
 "Q676203",
-"Q667529"
+"Q667529",
+"Q172822"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
 "Cliffs of Moher": 1,
 "Death Valley": 2,
 "Sossusvlei": 1,
-"Antelope Canyon": 1
+"Antelope Canyon": 1,
+"Mont Blanc": 1,
+"Annapurna": 1
 },
 "recent": [
 "OC",
@@ -38,6 +42,12 @@
 "OC"
 ],
 "day": "2026-10-15",
-"count": 1
+"count": 1,
+"_claim": [
+"Hoover Dam",
+"Q172822",
+"building",
+"405bfc1854c9"
+]
 }
 }
