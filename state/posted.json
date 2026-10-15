@@ -8,7 +8,8 @@
 "Amazon River",
 "Park G\u00fcell",
 "Congo River",
-"Machu Picchu"
+"Machu Picchu",
+"Blue Mountains (New South Wales)"
 ],
 "done_q": [
 "Q7343",
@@ -18,7 +19,8 @@
 "Q3783",
 "Q212867",
 "Q3503",
-"Q676203"
+"Q676203",
+"Q667529"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -35,7 +37,13 @@
 "AF",
 "SA"
 ],
-"day": "2026-10-14",
-"count": 3
+"day": "2026-10-15",
+"count": 0,
+"_claim": [
+"Blue Mountains (New South Wales)",
+"Q667529",
+"building",
+"1411ce9c2a31"
+]
 }
 }
