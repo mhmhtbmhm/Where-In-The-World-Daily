@@ -11,7 +11,8 @@
 "Machu Picchu",
 "Blue Mountains (New South Wales)",
 "Hoover Dam",
-"Petra"
+"Petra",
+"Dolomites"
 ],
 "done_q": [
 "Q7343",
@@ -24,7 +25,8 @@
 "Q676203",
 "Q667529",
 "Q172822",
-"Q5788"
+"Q5788",
+"Q1283"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -33,7 +35,8 @@
 "Sossusvlei": 1,
 "Antelope Canyon": 1,
 "Mont Blanc": 2,
-"Annapurna": 2
+"Annapurna": 2,
+"Mount Kilimanjaro": 1
 },
 "recent": [
 "EU",
@@ -43,7 +46,13 @@
 "NA",
 "AS"
 ],
-"day": "2026-10-15",
-"count": 3
+"day": "2026-10-16",
+"count": 0,
+"_claim": [
+"Dolomites",
+"Q1283",
+"building",
+"5ea7831135e6"
+]
 }
 }
