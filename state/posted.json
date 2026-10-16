@@ -12,7 +12,8 @@
 "Blue Mountains (New South Wales)",
 "Hoover Dam",
 "Petra",
-"Dolomites"
+"Dolomites",
+"Sahara"
 ],
 "done_q": [
 "Q7343",
@@ -26,7 +27,8 @@
 "Q667529",
 "Q172822",
 "Q5788",
-"Q1283"
+"Q1283",
+"Q6583"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -36,7 +38,7 @@
 "Antelope Canyon": 1,
 "Mont Blanc": 2,
 "Annapurna": 2,
-"Mount Kilimanjaro": 1
+"Mount Kilimanjaro": 2
 },
 "recent": [
 "AF",
@@ -47,6 +49,12 @@
 "EU"
 ],
 "day": "2026-10-16",
-"count": 1
+"count": 1,
+"_claim": [
+"Sahara",
+"Q6583",
+"building",
+"ee43aefedee3"
+]
 }
 }
