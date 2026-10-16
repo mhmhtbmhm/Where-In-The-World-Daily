@@ -13,7 +13,8 @@
 "Hoover Dam",
 "Petra",
 "Dolomites",
-"Sahara"
+"Sahara",
+"Wadi Rum"
 ],
 "done_q": [
 "Q7343",
@@ -28,7 +29,8 @@
 "Q172822",
 "Q5788",
 "Q1283",
-"Q6583"
+"Q6583",
+"Q40729"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -49,6 +51,12 @@
 "AF"
 ],
 "day": "2026-10-16",
-"count": 2
+"count": 2,
+"_claim": [
+"Wadi Rum",
+"Q40729",
+"building",
+"5c81a5ea64cb"
+]
 }
 }
