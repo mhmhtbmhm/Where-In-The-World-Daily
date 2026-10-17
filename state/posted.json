@@ -16,7 +16,8 @@
 "Sahara",
 "Wadi Rum",
 "Haleakal\u0101",
-"Volubilis"
+"Volubilis",
+"Perito Moreno Glacier"
 ],
 "done_q": [
 "Q7343",
@@ -34,7 +35,8 @@
 "Q6583",
 "Q40729",
 "Q515719",
-"Q391215"
+"Q391215",
+"Q367943"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -44,7 +46,9 @@
 "Antelope Canyon": 1,
 "Mont Blanc": 2,
 "Annapurna": 2,
-"Mount Kilimanjaro": 2
+"Mount Kilimanjaro": 2,
+"Gardens by the Bay": 1,
+"Mount Fitz Roy": 1
 },
 "recent": [
 "AS",
@@ -55,6 +59,12 @@
 "AF"
 ],
 "day": "2026-10-17",
-"count": 2
+"count": 2,
+"_claim": [
+"Perito Moreno Glacier",
+"Q367943",
+"building",
+"48d5013a1a5e"
+]
 }
 }
