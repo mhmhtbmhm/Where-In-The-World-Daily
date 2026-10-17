@@ -14,7 +14,8 @@
 "Petra",
 "Dolomites",
 "Sahara",
-"Wadi Rum"
+"Wadi Rum",
+"Haleakal\u0101"
 ],
 "done_q": [
 "Q7343",
@@ -30,7 +31,8 @@
 "Q5788",
 "Q1283",
 "Q6583",
-"Q40729"
+"Q40729",
+"Q515719"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -50,7 +52,13 @@
 "AF",
 "AS"
 ],
-"day": "2026-10-16",
-"count": 3
+"day": "2026-10-17",
+"count": 0,
+"_claim": [
+"Haleakal\u0101",
+"Q515719",
+"building",
+"bc1802c45b81"
+]
 }
 }
