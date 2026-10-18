@@ -17,7 +17,8 @@
 "Wadi Rum",
 "Haleakal\u0101",
 "Volubilis",
-"Perito Moreno Glacier"
+"Perito Moreno Glacier",
+"Alc\u00e1zar of Seville"
 ],
 "done_q": [
 "Q7343",
@@ -36,7 +37,8 @@
 "Q40729",
 "Q515719",
 "Q391215",
-"Q367943"
+"Q367943",
+"Q498261"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -58,7 +60,13 @@
 "AF",
 "SA"
 ],
-"day": "2026-10-17",
-"count": 3
+"day": "2026-10-18",
+"count": 0,
+"_claim": [
+"Alc\u00e1zar of Seville",
+"Q498261",
+"building",
+"dfc3c9b24a05"
+]
 }
 }
