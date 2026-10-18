@@ -19,7 +19,8 @@
 "Volubilis",
 "Perito Moreno Glacier",
 "Alc\u00e1zar of Seville",
-"Gros Morne National Park"
+"Gros Morne National Park",
+"Ha Long Bay"
 ],
 "done_q": [
 "Q7343",
@@ -40,7 +41,8 @@
 "Q391215",
 "Q367943",
 "Q498261",
-"Q257598"
+"Q257598",
+"Q190128"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -63,6 +65,12 @@
 "NA"
 ],
 "day": "2026-10-18",
-"count": 2
+"count": 2,
+"_claim": [
+"Ha Long Bay",
+"Q190128",
+"building",
+"74bc41d23ab3"
+]
 }
 }
