@@ -57,20 +57,14 @@
 "Mount Fitz Roy": 1
 },
 "recent": [
-"AS",
 "NA",
 "AF",
 "SA",
 "EU",
-"NA"
+"NA",
+"AS"
 ],
 "day": "2026-10-18",
-"count": 2,
-"_claim": [
-"Ha Long Bay",
-"Q190128",
-"building",
-"74bc41d23ab3"
-]
+"count": 3
 }
 }
