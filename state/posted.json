@@ -18,7 +18,8 @@
 "Haleakal\u0101",
 "Volubilis",
 "Perito Moreno Glacier",
-"Alc\u00e1zar of Seville"
+"Alc\u00e1zar of Seville",
+"Gros Morne National Park"
 ],
 "done_q": [
 "Q7343",
@@ -38,7 +39,8 @@
 "Q515719",
 "Q391215",
 "Q367943",
-"Q498261"
+"Q498261",
+"Q257598"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -61,6 +63,12 @@
 "EU"
 ],
 "day": "2026-10-18",
-"count": 1
+"count": 1,
+"_claim": [
+"Gros Morne National Park",
+"Q257598",
+"building",
+"8bba4617947d"
+]
 }
 }
