@@ -21,7 +21,8 @@
 "Alc\u00e1zar of Seville",
 "Gros Morne National Park",
 "Ha Long Bay",
-"Lake Victoria"
+"Lake Victoria",
+"Mount Erebus"
 ],
 "done_q": [
 "Q7343",
@@ -44,7 +45,8 @@
 "Q498261",
 "Q257598",
 "Q190128",
-"Q5505"
+"Q5505",
+"Q188982"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -68,6 +70,12 @@
 "AF"
 ],
 "day": "2026-10-19",
-"count": 1
+"count": 1,
+"_claim": [
+"Mount Erebus",
+"Q188982",
+"building",
+"bcce37dc4b82"
+]
 }
 }
