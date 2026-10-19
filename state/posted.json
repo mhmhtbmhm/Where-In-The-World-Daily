@@ -22,7 +22,8 @@
 "Gros Morne National Park",
 "Ha Long Bay",
 "Lake Victoria",
-"Mount Erebus"
+"Mount Erebus",
+"Pont du Gard"
 ],
 "done_q": [
 "Q7343",
@@ -46,7 +47,8 @@
 "Q257598",
 "Q190128",
 "Q5505",
-"Q188982"
+"Q188982",
+"Q189764"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -59,7 +61,8 @@
 "Mount Kilimanjaro": 2,
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 1,
-"Great Mosque of Djenn\u00e9": 1
+"Great Mosque of Djenn\u00e9": 1,
+"Phi Phi Islands": 1
 },
 "recent": [
 "SA",
@@ -70,6 +73,12 @@
 "AN"
 ],
 "day": "2026-10-19",
-"count": 2
+"count": 2,
+"_claim": [
+"Pont du Gard",
+"Q189764",
+"building",
+"4d985d9e096c"
+]
 }
 }
