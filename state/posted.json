@@ -20,7 +20,8 @@
 "Perito Moreno Glacier",
 "Alc\u00e1zar of Seville",
 "Gros Morne National Park",
-"Ha Long Bay"
+"Ha Long Bay",
+"Lake Victoria"
 ],
 "done_q": [
 "Q7343",
@@ -42,7 +43,8 @@
 "Q367943",
 "Q498261",
 "Q257598",
-"Q190128"
+"Q190128",
+"Q5505"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -54,7 +56,8 @@
 "Annapurna": 2,
 "Mount Kilimanjaro": 2,
 "Gardens by the Bay": 1,
-"Mount Fitz Roy": 1
+"Mount Fitz Roy": 1,
+"Great Mosque of Djenn\u00e9": 1
 },
 "recent": [
 "NA",
@@ -64,7 +67,13 @@
 "NA",
 "AS"
 ],
-"day": "2026-10-18",
-"count": 3
+"day": "2026-10-19",
+"count": 0,
+"_claim": [
+"Lake Victoria",
+"Q5505",
+"building",
+"22693b666104"
+]
 }
 }
