@@ -23,7 +23,8 @@
 "Ha Long Bay",
 "Lake Victoria",
 "Mount Erebus",
-"Pont du Gard"
+"Pont du Gard",
+"Bukhara"
 ],
 "done_q": [
 "Q7343",
@@ -48,7 +49,8 @@
 "Q190128",
 "Q5505",
 "Q188982",
-"Q189764"
+"Q189764",
+"Q5764"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -72,7 +74,13 @@
 "AN",
 "EU"
 ],
-"day": "2026-10-19",
-"count": 3
+"day": "2026-10-20",
+"count": 0,
+"_claim": [
+"Bukhara",
+"Q5764",
+"building",
+"d31fb767e1a0"
+]
 }
 }
