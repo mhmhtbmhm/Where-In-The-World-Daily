@@ -24,7 +24,8 @@
 "Lake Victoria",
 "Mount Erebus",
 "Pont du Gard",
-"Bukhara"
+"Bukhara",
+"South Georgia Island"
 ],
 "done_q": [
 "Q7343",
@@ -50,7 +51,8 @@
 "Q5505",
 "Q188982",
 "Q189764",
-"Q5764"
+"Q5764",
+"Q1137202"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -75,6 +77,12 @@
 "AS"
 ],
 "day": "2026-10-20",
-"count": 1
+"count": 1,
+"_claim": [
+"South Georgia Island",
+"Q1137202",
+"building",
+"0fe5486cbb09"
+]
 }
 }
