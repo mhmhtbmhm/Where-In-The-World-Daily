@@ -26,7 +26,8 @@
 "Pont du Gard",
 "Bukhara",
 "South Georgia Island",
-"Carlsbad Caverns National Park"
+"Carlsbad Caverns National Park",
+"Plitvice Lakes National Park"
 ],
 "done_q": [
 "Q7343",
@@ -54,7 +55,8 @@
 "Q189764",
 "Q5764",
 "Q1137202",
-"Q273195"
+"Q273195",
+"Q189849"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -74,7 +76,8 @@
 "Giant's Causeway": 2,
 "Huacachina": 2,
 "Grand Canyon": 2,
-"K\u012blauea": 2
+"K\u012blauea": 2,
+"Palm Jumeirah": 1
 },
 "recent": [
 "AF",
@@ -85,6 +88,12 @@
 "NA"
 ],
 "day": "2026-10-21",
-"count": 1
+"count": 1,
+"_claim": [
+"Plitvice Lakes National Park",
+"Q189849",
+"building",
+"8c49204e2c76"
+]
 }
 }
