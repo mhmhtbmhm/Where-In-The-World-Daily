@@ -25,7 +25,8 @@
 "Mount Erebus",
 "Pont du Gard",
 "Bukhara",
-"South Georgia Island"
+"South Georgia Island",
+"Carlsbad Caverns National Park"
 ],
 "done_q": [
 "Q7343",
@@ -52,7 +53,8 @@
 "Q188982",
 "Q189764",
 "Q5764",
-"Q1137202"
+"Q1137202",
+"Q273195"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -62,7 +64,7 @@
 "Antelope Canyon": 1,
 "Mont Blanc": 2,
 "Annapurna": 2,
-"Mount Kilimanjaro": 2,
+"Mount Kilimanjaro": 3,
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 1,
 "Great Mosque of Djenn\u00e9": 1,
@@ -82,7 +84,13 @@
 "AS",
 "AN"
 ],
-"day": "2026-10-20",
-"count": 2
+"day": "2026-10-21",
+"count": 0,
+"_claim": [
+"Carlsbad Caverns National Park",
+"Q273195",
+"building",
+"8eb54c2b6a42"
+]
 }
 }
