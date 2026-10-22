@@ -30,7 +30,8 @@
 "Plitvice Lakes National Park",
 "Etosha National Park",
 "Puerto Princesa Subterranean River National Park",
-"Danube Delta"
+"Danube Delta",
+"Lake Malawi"
 ],
 "done_q": [
 "Q7343",
@@ -62,7 +63,8 @@
 "Q189849",
 "Q675633",
 "Q824602",
-"Q184429"
+"Q184429",
+"Q5532"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -97,6 +99,12 @@
 "EU"
 ],
 "day": "2026-10-22",
-"count": 2
+"count": 2,
+"_claim": [
+"Lake Malawi",
+"Q5532",
+"building",
+"33f968eb3734"
+]
 }
 }
