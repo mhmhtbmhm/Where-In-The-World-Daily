@@ -29,7 +29,8 @@
 "Carlsbad Caverns National Park",
 "Plitvice Lakes National Park",
 "Etosha National Park",
-"Puerto Princesa Subterranean River National Park"
+"Puerto Princesa Subterranean River National Park",
+"Danube Delta"
 ],
 "done_q": [
 "Q7343",
@@ -60,7 +61,8 @@
 "Q273195",
 "Q189849",
 "Q675633",
-"Q824602"
+"Q824602",
+"Q184429"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -84,7 +86,7 @@
 "Palm Jumeirah": 3,
 "Huangshan": 1,
 "Wave Rock": 1,
-"Yosemite Falls": 1
+"Yosemite Falls": 2
 },
 "recent": [
 "AS",
@@ -95,6 +97,12 @@
 "AS"
 ],
 "day": "2026-10-22",
-"count": 1
+"count": 1,
+"_claim": [
+"Danube Delta",
+"Q184429",
+"building",
+"806c07d123a2"
+]
 }
 }
