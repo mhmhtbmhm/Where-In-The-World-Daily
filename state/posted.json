@@ -28,7 +28,8 @@
 "South Georgia Island",
 "Carlsbad Caverns National Park",
 "Plitvice Lakes National Park",
-"Etosha National Park"
+"Etosha National Park",
+"Puerto Princesa Subterranean River National Park"
 ],
 "done_q": [
 "Q7343",
@@ -58,7 +59,8 @@
 "Q1137202",
 "Q273195",
 "Q189849",
-"Q675633"
+"Q675633",
+"Q824602"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -79,9 +81,10 @@
 "Huacachina": 2,
 "Grand Canyon": 2,
 "K\u012blauea": 2,
-"Palm Jumeirah": 2,
+"Palm Jumeirah": 3,
 "Huangshan": 1,
-"Wave Rock": 1
+"Wave Rock": 1,
+"Yosemite Falls": 1
 },
 "recent": [
 "EU",
@@ -91,7 +94,13 @@
 "EU",
 "AF"
 ],
-"day": "2026-10-21",
-"count": 3
+"day": "2026-10-22",
+"count": 0,
+"_claim": [
+"Puerto Princesa Subterranean River National Park",
+"Q824602",
+"building",
+"55875d6b9194"
+]
 }
 }
