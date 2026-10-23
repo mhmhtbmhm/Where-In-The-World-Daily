@@ -31,7 +31,8 @@
 "Etosha National Park",
 "Puerto Princesa Subterranean River National Park",
 "Danube Delta",
-"Lake Malawi"
+"Lake Malawi",
+"Gal\u00e1pagos Islands"
 ],
 "done_q": [
 "Q7343",
@@ -64,7 +65,8 @@
 "Q675633",
 "Q824602",
 "Q184429",
-"Q5532"
+"Q5532",
+"Q38095"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -84,7 +86,7 @@
 "Giant's Causeway": 2,
 "Huacachina": 2,
 "Grand Canyon": 2,
-"K\u012blauea": 2,
+"K\u012blauea": 3,
 "Palm Jumeirah": 3,
 "Huangshan": 1,
 "Wave Rock": 1,
@@ -98,7 +100,13 @@
 "EU",
 "AF"
 ],
-"day": "2026-10-22",
-"count": 3
+"day": "2026-10-23",
+"count": 0,
+"_claim": [
+"Gal\u00e1pagos Islands",
+"Q38095",
+"building",
+"911df6af5ca8"
+]
 }
 }
