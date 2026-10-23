@@ -33,7 +33,8 @@
 "Danube Delta",
 "Lake Malawi",
 "Gal\u00e1pagos Islands",
-"Aoraki / Mount Cook"
+"Aoraki / Mount Cook",
+"Louvre"
 ],
 "done_q": [
 "Q7343",
@@ -68,7 +69,8 @@
 "Q184429",
 "Q5532",
 "Q38095",
-"Q5059"
+"Q5059",
+"Q19675"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -93,7 +95,8 @@
 "Huangshan": 1,
 "Wave Rock": 1,
 "Yosemite Falls": 2,
-"CN Tower": 1
+"CN Tower": 2,
+"Great Blue Hole": 1
 },
 "recent": [
 "AF",
@@ -104,6 +107,12 @@
 "OC"
 ],
 "day": "2026-10-23",
-"count": 2
+"count": 2,
+"_claim": [
+"Louvre",
+"Q19675",
+"building",
+"967008c635b3"
+]
 }
 }
