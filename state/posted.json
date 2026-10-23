@@ -32,7 +32,8 @@
 "Puerto Princesa Subterranean River National Park",
 "Danube Delta",
 "Lake Malawi",
-"Gal\u00e1pagos Islands"
+"Gal\u00e1pagos Islands",
+"Aoraki / Mount Cook"
 ],
 "done_q": [
 "Q7343",
@@ -66,7 +67,8 @@
 "Q824602",
 "Q184429",
 "Q5532",
-"Q38095"
+"Q38095",
+"Q5059"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -90,7 +92,8 @@
 "Palm Jumeirah": 3,
 "Huangshan": 1,
 "Wave Rock": 1,
-"Yosemite Falls": 2
+"Yosemite Falls": 2,
+"CN Tower": 1
 },
 "recent": [
 "EU",
@@ -101,6 +104,12 @@
 "SA"
 ],
 "day": "2026-10-23",
-"count": 1
+"count": 1,
+"_claim": [
+"Aoraki / Mount Cook",
+"Q5059",
+"building",
+"7d46acb87dd4"
+]
 }
 }
