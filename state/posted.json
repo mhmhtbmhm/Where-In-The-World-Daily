@@ -34,7 +34,8 @@
 "Lake Malawi",
 "Gal\u00e1pagos Islands",
 "Aoraki / Mount Cook",
-"Louvre"
+"Louvre",
+"Crater Lake"
 ],
 "done_q": [
 "Q7343",
@@ -70,7 +71,8 @@
 "Q5532",
 "Q38095",
 "Q5059",
-"Q19675"
+"Q19675",
+"Q329266"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -106,7 +108,13 @@
 "OC",
 "EU"
 ],
-"day": "2026-10-23",
-"count": 3
+"day": "2026-10-24",
+"count": 0,
+"_claim": [
+"Crater Lake",
+"Q329266",
+"building",
+"7ec60c8c6361"
+]
 }
 }
