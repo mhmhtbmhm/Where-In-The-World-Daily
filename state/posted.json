@@ -36,7 +36,8 @@
 "Aoraki / Mount Cook",
 "Louvre",
 "Crater Lake",
-"Mount Damavand"
+"Mount Damavand",
+"Charles Bridge"
 ],
 "done_q": [
 "Q7343",
@@ -74,7 +75,8 @@
 "Q5059",
 "Q19675",
 "Q329266",
-"Q40758"
+"Q40758",
+"Q204871"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -97,11 +99,12 @@
 "K\u012blauea": 3,
 "Palm Jumeirah": 3,
 "Huangshan": 1,
-"Wave Rock": 2,
+"Wave Rock": 3,
 "Yosemite Falls": 2,
 "CN Tower": 2,
 "Great Blue Hole": 1,
-"Quilotoa": 1
+"Quilotoa": 2,
+"Venice": 1
 },
 "recent": [
 "AF",
@@ -112,6 +115,12 @@
 "AS"
 ],
 "day": "2026-10-24",
-"count": 2
+"count": 2,
+"_claim": [
+"Charles Bridge",
+"Q204871",
+"building",
+"4f7bd1ba09cf"
+]
 }
 }
