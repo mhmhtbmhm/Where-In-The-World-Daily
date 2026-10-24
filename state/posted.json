@@ -35,7 +35,8 @@
 "Gal\u00e1pagos Islands",
 "Aoraki / Mount Cook",
 "Louvre",
-"Crater Lake"
+"Crater Lake",
+"Mount Damavand"
 ],
 "done_q": [
 "Q7343",
@@ -72,7 +73,8 @@
 "Q38095",
 "Q5059",
 "Q19675",
-"Q329266"
+"Q329266",
+"Q40758"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -95,10 +97,11 @@
 "K\u012blauea": 3,
 "Palm Jumeirah": 3,
 "Huangshan": 1,
-"Wave Rock": 1,
+"Wave Rock": 2,
 "Yosemite Falls": 2,
 "CN Tower": 2,
-"Great Blue Hole": 1
+"Great Blue Hole": 1,
+"Quilotoa": 1
 },
 "recent": [
 "EU",
@@ -109,6 +112,12 @@
 "NA"
 ],
 "day": "2026-10-24",
-"count": 1
+"count": 1,
+"_claim": [
+"Mount Damavand",
+"Q40758",
+"building",
+"e6fb1d741f04"
+]
 }
 }
