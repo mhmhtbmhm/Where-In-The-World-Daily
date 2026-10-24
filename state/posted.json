@@ -101,20 +101,14 @@
 "Great Blue Hole": 1
 },
 "recent": [
-"AS",
 "EU",
 "AF",
 "SA",
 "OC",
-"EU"
+"EU",
+"NA"
 ],
 "day": "2026-10-24",
-"count": 0,
-"_claim": [
-"Crater Lake",
-"Q329266",
-"building",
-"7ec60c8c6361"
-]
+"count": 1
 }
 }
