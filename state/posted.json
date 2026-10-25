@@ -37,7 +37,8 @@
 "Louvre",
 "Crater Lake",
 "Mount Damavand",
-"Charles Bridge"
+"Charles Bridge",
+"Yellowstone National Park"
 ],
 "done_q": [
 "Q7343",
@@ -76,7 +77,8 @@
 "Q19675",
 "Q329266",
 "Q40758",
-"Q204871"
+"Q204871",
+"Q351"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -114,7 +116,13 @@
 "AS",
 "EU"
 ],
-"day": "2026-10-24",
-"count": 3
+"day": "2026-10-25",
+"count": 0,
+"_claim": [
+"Yellowstone National Park",
+"Q351",
+"building",
+"4aeafbbcb944"
+]
 }
 }
