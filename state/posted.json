@@ -38,7 +38,8 @@
 "Crater Lake",
 "Mount Damavand",
 "Charles Bridge",
-"Yellowstone National Park"
+"Yellowstone National Park",
+"Namib Desert"
 ],
 "done_q": [
 "Q7343",
@@ -78,7 +79,8 @@
 "Q329266",
 "Q40758",
 "Q204871",
-"Q351"
+"Q351",
+"Q131377"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -117,6 +119,12 @@
 "NA"
 ],
 "day": "2026-10-25",
-"count": 1
+"count": 1,
+"_claim": [
+"Namib Desert",
+"Q131377",
+"building",
+"24e060ecc967"
+]
 }
 }
