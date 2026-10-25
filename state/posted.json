@@ -39,7 +39,8 @@
 "Mount Damavand",
 "Charles Bridge",
 "Yellowstone National Park",
-"Namib Desert"
+"Namib Desert",
+"Nambung National Park"
 ],
 "done_q": [
 "Q7343",
@@ -80,7 +81,8 @@
 "Q40758",
 "Q204871",
 "Q351",
-"Q131377"
+"Q131377",
+"Q1362815"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -108,7 +110,7 @@
 "CN Tower": 2,
 "Great Blue Hole": 1,
 "Quilotoa": 2,
-"Venice": 1
+"Venice": 2
 },
 "recent": [
 "EU",
@@ -119,6 +121,12 @@
 "AF"
 ],
 "day": "2026-10-25",
-"count": 2
+"count": 2,
+"_claim": [
+"Nambung National Park",
+"Q1362815",
+"building",
+"c23babd70d1c"
+]
 }
 }
