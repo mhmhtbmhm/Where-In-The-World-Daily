@@ -98,12 +98,12 @@
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 1,
 "Great Mosque of Djenn\u00e9": 1,
-"Phi Phi Islands": 1,
+"Phi Phi Islands": 2,
 "Mount Vesuvius": 2,
 "Pompeii": 2,
 "Giant's Causeway": 2,
 "Huacachina": 2,
-"Grand Canyon": 2,
+"Grand Canyon": 3,
 "K\u012blauea": 3,
 "Palm Jumeirah": 3,
 "Huangshan": 1,
@@ -111,9 +111,11 @@
 "Yosemite Falls": 2,
 "CN Tower": 2,
 "Great Blue Hole": 1,
-"Quilotoa": 2,
+"Quilotoa": 3,
 "Venice": 2,
-"Maldives": 1
+"Maldives": 2,
+"Registan": 1,
+"Raja Ampat Islands": 1
 },
 "recent": [
 "AS",
