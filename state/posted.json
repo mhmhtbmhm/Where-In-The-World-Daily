@@ -41,7 +41,8 @@
 "Yellowstone National Park",
 "Namib Desert",
 "Nambung National Park",
-"Upper Middle Rhine Valley"
+"Upper Middle Rhine Valley",
+"Hassan II Mosque"
 ],
 "done_q": [
 "Q7343",
@@ -84,7 +85,8 @@
 "Q351",
 "Q131377",
 "Q1362815",
-"Q1780249"
+"Q1780249",
+"Q41346"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -98,7 +100,7 @@
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 1,
 "Great Mosque of Djenn\u00e9": 1,
-"Phi Phi Islands": 2,
+"Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
 "Pompeii": 2,
 "Giant's Causeway": 2,
@@ -113,9 +115,10 @@
 "Great Blue Hole": 1,
 "Quilotoa": 3,
 "Venice": 2,
-"Maldives": 2,
-"Registan": 1,
-"Raja Ampat Islands": 1
+"Maldives": 3,
+"Registan": 2,
+"Raja Ampat Islands": 2,
+"Kaieteur Falls": 1
 },
 "recent": [
 "AS",
@@ -126,6 +129,12 @@
 "EU"
 ],
 "day": "2026-10-26",
-"count": 1
+"count": 1,
+"_claim": [
+"Hassan II Mosque",
+"Q41346",
+"building",
+"d3b663dcb3e2"
+]
 }
 }
