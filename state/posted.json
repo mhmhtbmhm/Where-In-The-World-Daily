@@ -42,7 +42,8 @@
 "Namib Desert",
 "Nambung National Park",
 "Upper Middle Rhine Valley",
-"Hassan II Mosque"
+"Hassan II Mosque",
+"Moorea"
 ],
 "done_q": [
 "Q7343",
@@ -86,7 +87,8 @@
 "Q131377",
 "Q1362815",
 "Q1780249",
-"Q41346"
+"Q41346",
+"Q673400"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -129,6 +131,12 @@
 "AF"
 ],
 "day": "2026-10-26",
-"count": 2
+"count": 2,
+"_claim": [
+"Moorea",
+"Q673400",
+"building",
+"d3eeccaff731"
+]
 }
 }
