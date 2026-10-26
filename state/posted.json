@@ -123,20 +123,14 @@
 "Kaieteur Falls": 1
 },
 "recent": [
-"EU",
 "NA",
 "AF",
 "OC",
 "EU",
-"AF"
+"AF",
+"OC"
 ],
 "day": "2026-10-26",
-"count": 2,
-"_claim": [
-"Moorea",
-"Q673400",
-"building",
-"d3eeccaff731"
-]
+"count": 3
 }
 }
