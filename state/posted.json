@@ -40,7 +40,8 @@
 "Charles Bridge",
 "Yellowstone National Park",
 "Namib Desert",
-"Nambung National Park"
+"Nambung National Park",
+"Upper Middle Rhine Valley"
 ],
 "done_q": [
 "Q7343",
@@ -82,7 +83,8 @@
 "Q204871",
 "Q351",
 "Q131377",
-"Q1362815"
+"Q1362815",
+"Q1780249"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -110,7 +112,8 @@
 "CN Tower": 2,
 "Great Blue Hole": 1,
 "Quilotoa": 2,
-"Venice": 2
+"Venice": 2,
+"Maldives": 1
 },
 "recent": [
 "NA",
@@ -120,7 +123,13 @@
 "AF",
 "OC"
 ],
-"day": "2026-10-25",
-"count": 3
+"day": "2026-10-26",
+"count": 0,
+"_claim": [
+"Upper Middle Rhine Valley",
+"Q1780249",
+"building",
+"66530322457f"
+]
 }
 }
