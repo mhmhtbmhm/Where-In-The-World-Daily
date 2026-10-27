@@ -43,7 +43,8 @@
 "Nambung National Park",
 "Upper Middle Rhine Valley",
 "Hassan II Mosque",
-"Moorea"
+"Moorea",
+"Glacier National Park (U.S.)"
 ],
 "done_q": [
 "Q7343",
@@ -88,7 +89,8 @@
 "Q1362815",
 "Q1780249",
 "Q41346",
-"Q673400"
+"Q673400",
+"Q373567"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -120,7 +122,9 @@
 "Maldives": 3,
 "Registan": 2,
 "Raja Ampat Islands": 2,
-"Kaieteur Falls": 1
+"Kaieteur Falls": 1,
+"Cabo da Roca": 1,
+"Bran Castle": 1
 },
 "recent": [
 "NA",
@@ -130,7 +134,13 @@
 "AF",
 "OC"
 ],
-"day": "2026-10-26",
-"count": 3
+"day": "2026-10-27",
+"count": 0,
+"_claim": [
+"Glacier National Park (U.S.)",
+"Q373567",
+"building",
+"e24755173efe"
+]
 }
 }
