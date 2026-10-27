@@ -45,7 +45,8 @@
 "Hassan II Mosque",
 "Moorea",
 "Glacier National Park (U.S.)",
-"Victoria Falls"
+"Victoria Falls",
+"Kakadu National Park"
 ],
 "done_q": [
 "Q7343",
@@ -92,7 +93,8 @@
 "Q41346",
 "Q673400",
 "Q373567",
-"Q43278"
+"Q43278",
+"Q189657"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -125,8 +127,8 @@
 "Registan": 2,
 "Raja Ampat Islands": 2,
 "Kaieteur Falls": 1,
-"Cabo da Roca": 1,
-"Bran Castle": 1
+"Cabo da Roca": 2,
+"Bran Castle": 2
 },
 "recent": [
 "OC",
@@ -137,6 +139,12 @@
 "AF"
 ],
 "day": "2026-10-27",
-"count": 2
+"count": 2,
+"_claim": [
+"Kakadu National Park",
+"Q189657",
+"building",
+"f73ea1cbd828"
+]
 }
 }
