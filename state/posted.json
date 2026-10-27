@@ -44,7 +44,8 @@
 "Upper Middle Rhine Valley",
 "Hassan II Mosque",
 "Moorea",
-"Glacier National Park (U.S.)"
+"Glacier National Park (U.S.)",
+"Victoria Falls"
 ],
 "done_q": [
 "Q7343",
@@ -90,7 +91,8 @@
 "Q1780249",
 "Q41346",
 "Q673400",
-"Q373567"
+"Q373567",
+"Q43278"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -135,6 +137,12 @@
 "NA"
 ],
 "day": "2026-10-27",
-"count": 1
+"count": 1,
+"_claim": [
+"Victoria Falls",
+"Q43278",
+"building",
+"ffc5f71254ce"
+]
 }
 }
