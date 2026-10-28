@@ -47,7 +47,8 @@
 "Glacier National Park (U.S.)",
 "Victoria Falls",
 "Kakadu National Park",
-"Palace of Versailles"
+"Palace of Versailles",
+"Marrakesh"
 ],
 "done_q": [
 "Q7343",
@@ -96,7 +97,8 @@
 "Q373567",
 "Q43278",
 "Q189657",
-"Q2946"
+"Q2946",
+"Q101625"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -130,7 +132,8 @@
 "Raja Ampat Islands": 2,
 "Kaieteur Falls": 1,
 "Cabo da Roca": 2,
-"Bran Castle": 2
+"Bran Castle": 2,
+"Horseshoe Bend": 1
 },
 "recent": [
 "AF",
@@ -141,6 +144,12 @@
 "EU"
 ],
 "day": "2026-10-28",
-"count": 1
+"count": 1,
+"_claim": [
+"Marrakesh",
+"Q101625",
+"building",
+"9b03ec4a6248"
+]
 }
 }
