@@ -133,20 +133,14 @@
 "Bran Castle": 2
 },
 "recent": [
-"EU",
 "AF",
 "OC",
 "NA",
 "AF",
-"OC"
+"OC",
+"EU"
 ],
 "day": "2026-10-28",
-"count": 0,
-"_claim": [
-"Palace of Versailles",
-"Q2946",
-"building",
-"15e7eba5dfaa"
-]
+"count": 1
 }
 }
