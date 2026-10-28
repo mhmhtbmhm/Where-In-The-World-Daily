@@ -48,7 +48,8 @@
 "Victoria Falls",
 "Kakadu National Park",
 "Palace of Versailles",
-"Marrakesh"
+"Marrakesh",
+"Komodo National Park"
 ],
 "done_q": [
 "Q7343",
@@ -98,7 +99,8 @@
 "Q43278",
 "Q189657",
 "Q2946",
-"Q101625"
+"Q101625",
+"Q4520"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -133,7 +135,7 @@
 "Kaieteur Falls": 1,
 "Cabo da Roca": 2,
 "Bran Castle": 2,
-"Horseshoe Bend": 1
+"Horseshoe Bend": 2
 },
 "recent": [
 "OC",
@@ -144,6 +146,12 @@
 "AF"
 ],
 "day": "2026-10-28",
-"count": 2
+"count": 2,
+"_claim": [
+"Komodo National Park",
+"Q4520",
+"building",
+"80c9b7462805"
+]
 }
 }
