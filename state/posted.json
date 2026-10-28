@@ -46,7 +46,8 @@
 "Moorea",
 "Glacier National Park (U.S.)",
 "Victoria Falls",
-"Kakadu National Park"
+"Kakadu National Park",
+"Palace of Versailles"
 ],
 "done_q": [
 "Q7343",
@@ -94,7 +95,8 @@
 "Q673400",
 "Q373567",
 "Q43278",
-"Q189657"
+"Q189657",
+"Q2946"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -138,7 +140,13 @@
 "AF",
 "OC"
 ],
-"day": "2026-10-27",
-"count": 3
+"day": "2026-10-28",
+"count": 0,
+"_claim": [
+"Palace of Versailles",
+"Q2946",
+"building",
+"15e7eba5dfaa"
+]
 }
 }
