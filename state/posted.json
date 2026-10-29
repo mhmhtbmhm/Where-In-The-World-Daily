@@ -51,7 +51,8 @@
 "Marrakesh",
 "Komodo National Park",
 "Statue of Liberty",
-"Trevi Fountain"
+"Trevi Fountain",
+"Los Glaciares National Park"
 ],
 "done_q": [
 "Q7343",
@@ -104,7 +105,8 @@
 "Q101625",
 "Q4520",
 "Q9202",
-"Q185382"
+"Q185382",
+"Q215992"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -140,8 +142,8 @@
 "Cabo da Roca": 2,
 "Bran Castle": 2,
 "Horseshoe Bend": 2,
-"Colca Canyon": 1,
-"Bungle Bungle Range": 1
+"Colca Canyon": 2,
+"Bungle Bungle Range": 2
 },
 "recent": [
 "OC",
@@ -152,6 +154,12 @@
 "EU"
 ],
 "day": "2026-10-29",
-"count": 2
+"count": 2,
+"_claim": [
+"Los Glaciares National Park",
+"Q215992",
+"building",
+"21105d74d0b0"
+]
 }
 }
