@@ -50,7 +50,8 @@
 "Palace of Versailles",
 "Marrakesh",
 "Komodo National Park",
-"Statue of Liberty"
+"Statue of Liberty",
+"Trevi Fountain"
 ],
 "done_q": [
 "Q7343",
@@ -102,7 +103,8 @@
 "Q2946",
 "Q101625",
 "Q4520",
-"Q9202"
+"Q9202",
+"Q185382"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -137,7 +139,9 @@
 "Kaieteur Falls": 1,
 "Cabo da Roca": 2,
 "Bran Castle": 2,
-"Horseshoe Bend": 2
+"Horseshoe Bend": 2,
+"Colca Canyon": 1,
+"Bungle Bungle Range": 1
 },
 "recent": [
 "AF",
@@ -148,6 +152,12 @@
 "NA"
 ],
 "day": "2026-10-29",
-"count": 1
+"count": 1,
+"_claim": [
+"Trevi Fountain",
+"Q185382",
+"building",
+"a1f095bada8e"
+]
 }
 }
