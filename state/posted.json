@@ -49,7 +49,8 @@
 "Kakadu National Park",
 "Palace of Versailles",
 "Marrakesh",
-"Komodo National Park"
+"Komodo National Park",
+"Statue of Liberty"
 ],
 "done_q": [
 "Q7343",
@@ -100,7 +101,8 @@
 "Q189657",
 "Q2946",
 "Q101625",
-"Q4520"
+"Q4520",
+"Q9202"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -145,7 +147,13 @@
 "AF",
 "AS"
 ],
-"day": "2026-10-28",
-"count": 3
+"day": "2026-10-29",
+"count": 0,
+"_claim": [
+"Statue of Liberty",
+"Q9202",
+"building",
+"9d8db8f45046"
+]
 }
 }
