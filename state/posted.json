@@ -52,7 +52,8 @@
 "Komodo National Park",
 "Statue of Liberty",
 "Trevi Fountain",
-"Los Glaciares National Park"
+"Los Glaciares National Park",
+"Jeju Island"
 ],
 "done_q": [
 "Q7343",
@@ -106,7 +107,8 @@
 "Q4520",
 "Q9202",
 "Q185382",
-"Q215992"
+"Q215992",
+"Q29151"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -143,7 +145,10 @@
 "Bran Castle": 2,
 "Horseshoe Bend": 2,
 "Colca Canyon": 2,
-"Bungle Bungle Range": 2
+"Bungle Bungle Range": 2,
+"Cape of Good Hope": 1,
+"Cappadocia": 1,
+"Merzouga": 1
 },
 "recent": [
 "EU",
@@ -153,7 +158,13 @@
 "EU",
 "SA"
 ],
-"day": "2026-10-29",
-"count": 3
+"day": "2026-10-30",
+"count": 0,
+"_claim": [
+"Jeju Island",
+"Q29151",
+"building",
+"38ef6014d94c"
+]
 }
 }
