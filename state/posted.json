@@ -157,20 +157,14 @@
 "Franz Josef Glacier": 3
 },
 "recent": [
-"AS",
 "NA",
 "EU",
 "SA",
 "AS",
-"EU"
+"EU",
+"OC"
 ],
 "day": "2026-10-30",
-"count": 2,
-"_claim": [
-"Ningaloo Coast",
-"Q1541665",
-"building",
-"ebc2e43d4c9e"
-]
+"count": 3
 }
 }
