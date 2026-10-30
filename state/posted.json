@@ -54,7 +54,8 @@
 "Trevi Fountain",
 "Los Glaciares National Park",
 "Jeju Island",
-"Brandenburg Gate"
+"Brandenburg Gate",
+"Ningaloo Coast"
 ],
 "done_q": [
 "Q7343",
@@ -110,7 +111,8 @@
 "Q185382",
 "Q215992",
 "Q29151",
-"Q82425"
+"Q82425",
+"Q1541665"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -122,7 +124,7 @@
 "Annapurna": 2,
 "Mount Kilimanjaro": 3,
 "Gardens by the Bay": 1,
-"Mount Fitz Roy": 1,
+"Mount Fitz Roy": 2,
 "Great Mosque of Djenn\u00e9": 1,
 "Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
@@ -152,7 +154,7 @@
 "Cappadocia": 1,
 "Merzouga": 3,
 "Eiffel Tower": 2,
-"Franz Josef Glacier": 2
+"Franz Josef Glacier": 3
 },
 "recent": [
 "AS",
@@ -163,6 +165,12 @@
 "EU"
 ],
 "day": "2026-10-30",
-"count": 2
+"count": 2,
+"_claim": [
+"Ningaloo Coast",
+"Q1541665",
+"building",
+"ebc2e43d4c9e"
+]
 }
 }
