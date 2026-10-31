@@ -55,7 +55,8 @@
 "Los Glaciares National Park",
 "Jeju Island",
 "Brandenburg Gate",
-"Ningaloo Coast"
+"Ningaloo Coast",
+"Lake Toba"
 ],
 "done_q": [
 "Q7343",
@@ -112,7 +113,8 @@
 "Q215992",
 "Q29151",
 "Q82425",
-"Q1541665"
+"Q1541665",
+"Q183360"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -154,7 +156,9 @@
 "Cappadocia": 1,
 "Merzouga": 3,
 "Eiffel Tower": 2,
-"Franz Josef Glacier": 3
+"Franz Josef Glacier": 3,
+"Mount Ararat": 1,
+"A\u00eft Benhaddou": 1
 },
 "recent": [
 "NA",
@@ -164,7 +168,13 @@
 "EU",
 "OC"
 ],
-"day": "2026-10-30",
-"count": 3
+"day": "2026-10-31",
+"count": 0,
+"_claim": [
+"Lake Toba",
+"Q183360",
+"building",
+"e439debd5d9b"
+]
 }
 }
