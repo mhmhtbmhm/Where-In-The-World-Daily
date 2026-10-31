@@ -57,7 +57,8 @@
 "Brandenburg Gate",
 "Ningaloo Coast",
 "Lake Toba",
-"Santorini"
+"Santorini",
+"Ouzoud Falls"
 ],
 "done_q": [
 "Q7343",
@@ -116,10 +117,11 @@
 "Q82425",
 "Q1541665",
 "Q183360",
-"Q129296"
+"Q129296",
+"Q38212"
 ],
 "fail": {
-"Mount Nyiragongo": 1,
+"Mount Nyiragongo": 2,
 "Cliffs of Moher": 1,
 "Death Valley": 2,
 "Sossusvlei": 1,
@@ -160,7 +162,7 @@
 "Eiffel Tower": 2,
 "Franz Josef Glacier": 3,
 "Mount Ararat": 1,
-"A\u00eft Benhaddou": 1,
+"A\u00eft Benhaddou": 2,
 "Matterhorn": 1
 },
 "recent": [
@@ -172,6 +174,12 @@
 "EU"
 ],
 "day": "2026-10-31",
-"count": 2
+"count": 2,
+"_claim": [
+"Ouzoud Falls",
+"Q38212",
+"building",
+"4c3dedd002cc"
+]
 }
 }
