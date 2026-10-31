@@ -56,7 +56,8 @@
 "Jeju Island",
 "Brandenburg Gate",
 "Ningaloo Coast",
-"Lake Toba"
+"Lake Toba",
+"Santorini"
 ],
 "done_q": [
 "Q7343",
@@ -114,7 +115,8 @@
 "Q29151",
 "Q82425",
 "Q1541665",
-"Q183360"
+"Q183360",
+"Q129296"
 ],
 "fail": {
 "Mount Nyiragongo": 1,
@@ -158,7 +160,8 @@
 "Eiffel Tower": 2,
 "Franz Josef Glacier": 3,
 "Mount Ararat": 1,
-"A\u00eft Benhaddou": 1
+"A\u00eft Benhaddou": 1,
+"Matterhorn": 1
 },
 "recent": [
 "EU",
@@ -169,6 +172,12 @@
 "AS"
 ],
 "day": "2026-10-31",
-"count": 1
+"count": 1,
+"_claim": [
+"Santorini",
+"Q129296",
+"building",
+"48fe32615a28"
+]
 }
 }
