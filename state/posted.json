@@ -172,20 +172,14 @@
 "Matterhorn": 1
 },
 "recent": [
-"OC",
 "AS",
 "EU",
 "AF",
 "NA",
-"AN"
+"AN",
+"AS"
 ],
 "day": "2026-11-01",
-"count": 2,
-"_claim": [
-"Three Gorges Dam",
-"Q12514",
-"building",
-"122019b6f03e"
-]
+"count": 3
 }
 }
