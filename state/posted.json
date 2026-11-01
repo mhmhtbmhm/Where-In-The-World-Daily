@@ -59,7 +59,8 @@
 "Lake Toba",
 "Santorini",
 "Ouzoud Falls",
-"Lake Louise (Alberta)"
+"Lake Louise (Alberta)",
+"Vinson Massif"
 ],
 "done_q": [
 "Q7343",
@@ -120,7 +121,8 @@
 "Q183360",
 "Q129296",
 "Q38212",
-"Q1367398"
+"Q1367398",
+"Q163758"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -176,6 +178,12 @@
 "NA"
 ],
 "day": "2026-11-01",
-"count": 1
+"count": 1,
+"_claim": [
+"Vinson Massif",
+"Q163758",
+"building",
+"15b20bb91761"
+]
 }
 }
