@@ -60,7 +60,8 @@
 "Santorini",
 "Ouzoud Falls",
 "Lake Louise (Alberta)",
-"Vinson Massif"
+"Vinson Massif",
+"Three Gorges Dam"
 ],
 "done_q": [
 "Q7343",
@@ -122,7 +123,8 @@
 "Q129296",
 "Q38212",
 "Q1367398",
-"Q163758"
+"Q163758",
+"Q12514"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -178,6 +180,12 @@
 "AN"
 ],
 "day": "2026-11-01",
-"count": 2
+"count": 2,
+"_claim": [
+"Three Gorges Dam",
+"Q12514",
+"building",
+"122019b6f03e"
+]
 }
 }
