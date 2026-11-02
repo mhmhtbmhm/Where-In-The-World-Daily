@@ -63,7 +63,8 @@
 "Vinson Massif",
 "Three Gorges Dam",
 "Redwood National and State Parks",
-"Atlas Mountains"
+"Atlas Mountains",
+"K2"
 ],
 "done_q": [
 "Q7343",
@@ -128,7 +129,8 @@
 "Q163758",
 "Q12514",
 "Q63863168",
-"Q130135"
+"Q130135",
+"Q43512"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -173,7 +175,8 @@
 "Franz Josef Glacier": 3,
 "Mount Ararat": 1,
 "A\u00eft Benhaddou": 2,
-"Matterhorn": 1
+"Matterhorn": 1,
+"Mount Bromo": 1
 },
 "recent": [
 "AF",
@@ -184,6 +187,12 @@
 "AF"
 ],
 "day": "2026-11-02",
-"count": 2
+"count": 2,
+"_claim": [
+"K2",
+"Q43512",
+"building",
+"d4935a80729f"
+]
 }
 }
