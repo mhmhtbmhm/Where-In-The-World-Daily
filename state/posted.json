@@ -61,7 +61,8 @@
 "Ouzoud Falls",
 "Lake Louise (Alberta)",
 "Vinson Massif",
-"Three Gorges Dam"
+"Three Gorges Dam",
+"Redwood National and State Parks"
 ],
 "done_q": [
 "Q7343",
@@ -124,7 +125,8 @@
 "Q38212",
 "Q1367398",
 "Q163758",
-"Q12514"
+"Q12514",
+"Q63863168"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -179,7 +181,13 @@
 "AN",
 "AS"
 ],
-"day": "2026-11-01",
-"count": 3
+"day": "2026-11-02",
+"count": 0,
+"_claim": [
+"Redwood National and State Parks",
+"Q63863168",
+"building",
+"127345e37dd6"
+]
 }
 }
