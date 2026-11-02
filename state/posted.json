@@ -62,7 +62,8 @@
 "Lake Louise (Alberta)",
 "Vinson Massif",
 "Three Gorges Dam",
-"Redwood National and State Parks"
+"Redwood National and State Parks",
+"Atlas Mountains"
 ],
 "done_q": [
 "Q7343",
@@ -126,7 +127,8 @@
 "Q1367398",
 "Q163758",
 "Q12514",
-"Q63863168"
+"Q63863168",
+"Q130135"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -162,7 +164,7 @@
 "Cabo da Roca": 2,
 "Bran Castle": 2,
 "Horseshoe Bend": 3,
-"Colca Canyon": 2,
+"Colca Canyon": 3,
 "Bungle Bungle Range": 2,
 "Cape of Good Hope": 3,
 "Cappadocia": 1,
@@ -182,6 +184,12 @@
 "NA"
 ],
 "day": "2026-11-02",
-"count": 1
+"count": 1,
+"_claim": [
+"Atlas Mountains",
+"Q130135",
+"building",
+"e04202b8c0b1"
+]
 }
 }
