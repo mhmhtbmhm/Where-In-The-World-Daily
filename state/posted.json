@@ -176,20 +176,14 @@
 "Matterhorn": 1
 },
 "recent": [
-"EU",
 "AF",
 "NA",
 "AN",
 "AS",
-"NA"
+"NA",
+"AF"
 ],
 "day": "2026-11-02",
-"count": 1,
-"_claim": [
-"Atlas Mountains",
-"Q130135",
-"building",
-"e04202b8c0b1"
-]
+"count": 2
 }
 }
