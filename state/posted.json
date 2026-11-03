@@ -64,7 +64,8 @@
 "Three Gorges Dam",
 "Redwood National and State Parks",
 "Atlas Mountains",
-"K2"
+"K2",
+"Mount Taranaki"
 ],
 "done_q": [
 "Q7343",
@@ -130,7 +131,8 @@
 "Q12514",
 "Q63863168",
 "Q130135",
-"Q43512"
+"Q43512",
+"Q850051"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -186,7 +188,13 @@
 "AF",
 "AS"
 ],
-"day": "2026-11-02",
-"count": 3
+"day": "2026-11-03",
+"count": 0,
+"_claim": [
+"Mount Taranaki",
+"Q850051",
+"building",
+"1b4f5ef106e5"
+]
 }
 }
