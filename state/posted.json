@@ -68,7 +68,8 @@
 "Mount Taranaki",
 "Timbuktu",
 "Tayrona National Natural Park",
-"Thar Desert"
+"Thar Desert",
+"Lake Retba"
 ],
 "done_q": [
 "Q7343",
@@ -138,7 +139,8 @@
 "Q850051",
 "Q9427",
 "Q1225209",
-"Q172691"
+"Q172691",
+"Q1522557"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -197,6 +199,12 @@
 "AS"
 ],
 "day": "2026-11-04",
-"count": 1
+"count": 1,
+"_claim": [
+"Lake Retba",
+"Q1522557",
+"building",
+"3518da6af420"
+]
 }
 }
