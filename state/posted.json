@@ -69,7 +69,8 @@
 "Timbuktu",
 "Tayrona National Natural Park",
 "Thar Desert",
-"Lake Retba"
+"Lake Retba",
+"Azores"
 ],
 "done_q": [
 "Q7343",
@@ -140,7 +141,8 @@
 "Q9427",
 "Q1225209",
 "Q172691",
-"Q1522557"
+"Q1522557",
+"Q25263"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -152,7 +154,7 @@
 "Annapurna": 2,
 "Mount Kilimanjaro": 3,
 "Gardens by the Bay": 1,
-"Mount Fitz Roy": 2,
+"Mount Fitz Roy": 3,
 "Great Mosque of Djenn\u00e9": 1,
 "Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
@@ -199,6 +201,12 @@
 "AF"
 ],
 "day": "2026-11-04",
-"count": 2
+"count": 2,
+"_claim": [
+"Azores",
+"Q25263",
+"building",
+"9386f1cd08b3"
+]
 }
 }
