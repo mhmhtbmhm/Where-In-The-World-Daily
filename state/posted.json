@@ -71,7 +71,8 @@
 "Thar Desert",
 "Lake Retba",
 "Azores",
-"Lake Baikal"
+"Lake Baikal",
+"Nile"
 ],
 "done_q": [
 "Q7343",
@@ -144,7 +145,8 @@
 "Q172691",
 "Q1522557",
 "Q25263",
-"Q5513"
+"Q5513",
+"Q3392"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -203,6 +205,12 @@
 "AS"
 ],
 "day": "2026-11-05",
-"count": 1
+"count": 1,
+"_claim": [
+"Nile",
+"Q3392",
+"building",
+"38f954837ee4"
+]
 }
 }
