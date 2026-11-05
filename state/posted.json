@@ -72,7 +72,8 @@
 "Lake Retba",
 "Azores",
 "Lake Baikal",
-"Nile"
+"Nile",
+"Lofoten"
 ],
 "done_q": [
 "Q7343",
@@ -146,7 +147,8 @@
 "Q1522557",
 "Q25263",
 "Q5513",
-"Q3392"
+"Q3392",
+"Q186822"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -205,6 +207,12 @@
 "AF"
 ],
 "day": "2026-11-05",
-"count": 2
+"count": 2,
+"_claim": [
+"Lofoten",
+"Q186822",
+"building",
+"b86d67637492"
+]
 }
 }
