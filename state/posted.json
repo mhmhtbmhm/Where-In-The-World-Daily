@@ -70,7 +70,8 @@
 "Tayrona National Natural Park",
 "Thar Desert",
 "Lake Retba",
-"Azores"
+"Azores",
+"Lake Baikal"
 ],
 "done_q": [
 "Q7343",
@@ -142,7 +143,8 @@
 "Q1225209",
 "Q172691",
 "Q1522557",
-"Q25263"
+"Q25263",
+"Q5513"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -200,7 +202,13 @@
 "AF",
 "EU"
 ],
-"day": "2026-11-04",
-"count": 3
+"day": "2026-11-05",
+"count": 0,
+"_claim": [
+"Lake Baikal",
+"Q5513",
+"building",
+"a9fef0704b40"
+]
 }
 }
