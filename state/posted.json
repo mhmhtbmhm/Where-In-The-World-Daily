@@ -206,20 +206,14 @@
 "Antarctic Peninsula": 1
 },
 "recent": [
-"AF",
 "EU",
 "AS",
 "AF",
 "EU",
-"OC"
+"OC",
+"NA"
 ],
 "day": "2026-11-06",
-"count": 1,
-"_claim": [
-"Arches National Park",
-"Q223969",
-"building",
-"f16f29d9740b"
-]
+"count": 2
 }
 }
