@@ -76,7 +76,8 @@
 "Lofoten",
 "Denali",
 "Lake Tekapo",
-"Arches National Park"
+"Arches National Park",
+"Madeira"
 ],
 "done_q": [
 "Q7343",
@@ -154,7 +155,8 @@
 "Q186822",
 "Q130018",
 "Q1194022",
-"Q223969"
+"Q223969",
+"Q26253"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -167,7 +169,7 @@
 "Mount Kilimanjaro": 3,
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 3,
-"Great Mosque of Djenn\u00e9": 2,
+"Great Mosque of Djenn\u00e9": 3,
 "Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
 "Pompeii": 3,
@@ -176,7 +178,7 @@
 "Grand Canyon": 3,
 "K\u012blauea": 3,
 "Palm Jumeirah": 3,
-"Huangshan": 2,
+"Huangshan": 3,
 "Wave Rock": 3,
 "Yosemite Falls": 3,
 "CN Tower": 3,
@@ -188,7 +190,7 @@
 "Raja Ampat Islands": 2,
 "Kaieteur Falls": 2,
 "Cabo da Roca": 2,
-"Bran Castle": 2,
+"Bran Castle": 3,
 "Horseshoe Bend": 3,
 "Colca Canyon": 3,
 "Bungle Bungle Range": 2,
@@ -203,7 +205,8 @@
 "Mount Bromo": 1,
 "Erg Chebbi": 1,
 "Pamukkale": 1,
-"Antarctic Peninsula": 1
+"Antarctic Peninsula": 2,
+"J\u00f6kuls\u00e1rl\u00f3n": 1
 },
 "recent": [
 "EU",
@@ -214,6 +217,12 @@
 "NA"
 ],
 "day": "2026-11-06",
-"count": 2
+"count": 2,
+"_claim": [
+"Madeira",
+"Q26253",
+"building",
+"4f84885df9a1"
+]
 }
 }
