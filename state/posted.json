@@ -73,7 +73,8 @@
 "Azores",
 "Lake Baikal",
 "Nile",
-"Lofoten"
+"Lofoten",
+"Denali"
 ],
 "done_q": [
 "Q7343",
@@ -148,7 +149,8 @@
 "Q25263",
 "Q5513",
 "Q3392",
-"Q186822"
+"Q186822",
+"Q130018"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -206,7 +208,13 @@
 "AF",
 "EU"
 ],
-"day": "2026-11-05",
-"count": 3
+"day": "2026-11-06",
+"count": 0,
+"_claim": [
+"Denali",
+"Q130018",
+"building",
+"6f93d7398858"
+]
 }
 }
