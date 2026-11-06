@@ -75,7 +75,8 @@
 "Nile",
 "Lofoten",
 "Denali",
-"Lake Tekapo"
+"Lake Tekapo",
+"Arches National Park"
 ],
 "done_q": [
 "Q7343",
@@ -152,7 +153,8 @@
 "Q3392",
 "Q186822",
 "Q130018",
-"Q1194022"
+"Q1194022",
+"Q223969"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -165,7 +167,7 @@
 "Mount Kilimanjaro": 3,
 "Gardens by the Bay": 1,
 "Mount Fitz Roy": 3,
-"Great Mosque of Djenn\u00e9": 1,
+"Great Mosque of Djenn\u00e9": 2,
 "Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
 "Pompeii": 3,
@@ -174,7 +176,7 @@
 "Grand Canyon": 3,
 "K\u012blauea": 3,
 "Palm Jumeirah": 3,
-"Huangshan": 1,
+"Huangshan": 2,
 "Wave Rock": 3,
 "Yosemite Falls": 3,
 "CN Tower": 3,
@@ -184,7 +186,7 @@
 "Maldives": 3,
 "Registan": 2,
 "Raja Ampat Islands": 2,
-"Kaieteur Falls": 1,
+"Kaieteur Falls": 2,
 "Cabo da Roca": 2,
 "Bran Castle": 2,
 "Horseshoe Bend": 3,
@@ -200,7 +202,8 @@
 "Matterhorn": 1,
 "Mount Bromo": 1,
 "Erg Chebbi": 1,
-"Pamukkale": 1
+"Pamukkale": 1,
+"Antarctic Peninsula": 1
 },
 "recent": [
 "AF",
@@ -211,6 +214,12 @@
 "OC"
 ],
 "day": "2026-11-06",
-"count": 1
+"count": 1,
+"_claim": [
+"Arches National Park",
+"Q223969",
+"building",
+"f16f29d9740b"
+]
 }
 }
