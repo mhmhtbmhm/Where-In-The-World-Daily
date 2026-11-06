@@ -74,7 +74,8 @@
 "Lake Baikal",
 "Nile",
 "Lofoten",
-"Denali"
+"Denali",
+"Lake Tekapo"
 ],
 "done_q": [
 "Q7343",
@@ -150,7 +151,8 @@
 "Q5513",
 "Q3392",
 "Q186822",
-"Q130018"
+"Q130018",
+"Q1194022"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -175,7 +177,7 @@
 "Huangshan": 1,
 "Wave Rock": 3,
 "Yosemite Falls": 3,
-"CN Tower": 2,
+"CN Tower": 3,
 "Great Blue Hole": 1,
 "Quilotoa": 3,
 "Venice": 2,
@@ -211,10 +213,10 @@
 "day": "2026-11-06",
 "count": 0,
 "_claim": [
-"Denali",
-"Q130018",
+"Lake Tekapo",
+"Q1194022",
 "building",
-"6f93d7398858"
+"669303f7df8e"
 ]
 }
 }
