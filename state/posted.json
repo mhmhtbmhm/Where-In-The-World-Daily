@@ -78,7 +78,8 @@
 "Lake Tekapo",
 "Arches National Park",
 "Madeira",
-"Salar de Uyuni"
+"Salar de Uyuni",
+"Dead Sea"
 ],
 "done_q": [
 "Q7343",
@@ -158,12 +159,13 @@
 "Q1194022",
 "Q223969",
 "Q26253",
-"Q76122"
+"Q76122",
+"Q23883"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
 "Cliffs of Moher": 1,
-"Death Valley": 2,
+"Death Valley": 3,
 "Sossusvlei": 1,
 "Antelope Canyon": 1,
 "Mont Blanc": 2,
@@ -204,12 +206,12 @@
 "Mount Ararat": 1,
 "A\u00eft Benhaddou": 2,
 "Matterhorn": 1,
-"Mount Bromo": 1,
+"Mount Bromo": 2,
 "Erg Chebbi": 1,
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
-"Drakensberg": 1
+"Drakensberg": 2
 },
 "recent": [
 "AF",
@@ -220,6 +222,12 @@
 "SA"
 ],
 "day": "2026-11-07",
-"count": 1
+"count": 1,
+"_claim": [
+"Dead Sea",
+"Q23883",
+"building",
+"bebe406c9b58"
+]
 }
 }
