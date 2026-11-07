@@ -77,7 +77,8 @@
 "Denali",
 "Lake Tekapo",
 "Arches National Park",
-"Madeira"
+"Madeira",
+"Salar de Uyuni"
 ],
 "done_q": [
 "Q7343",
@@ -156,7 +157,8 @@
 "Q130018",
 "Q1194022",
 "Q223969",
-"Q26253"
+"Q26253",
+"Q76122"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -206,7 +208,8 @@
 "Erg Chebbi": 1,
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
-"J\u00f6kuls\u00e1rl\u00f3n": 1
+"J\u00f6kuls\u00e1rl\u00f3n": 1,
+"Drakensberg": 1
 },
 "recent": [
 "AS",
@@ -216,7 +219,13 @@
 "NA",
 "EU"
 ],
-"day": "2026-11-06",
-"count": 3
+"day": "2026-11-07",
+"count": 0,
+"_claim": [
+"Salar de Uyuni",
+"Q76122",
+"building",
+"6714f40622f4"
+]
 }
 }
