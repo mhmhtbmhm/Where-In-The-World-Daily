@@ -79,7 +79,8 @@
 "Arches National Park",
 "Madeira",
 "Salar de Uyuni",
-"Dead Sea"
+"Dead Sea",
+"Lake Bled"
 ],
 "done_q": [
 "Q7343",
@@ -160,7 +161,8 @@
 "Q223969",
 "Q26253",
 "Q76122",
-"Q23883"
+"Q23883",
+"Q648902"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -211,7 +213,7 @@
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
-"Drakensberg": 2
+"Drakensberg": 3
 },
 "recent": [
 "EU",
@@ -222,6 +224,12 @@
 "AS"
 ],
 "day": "2026-11-07",
-"count": 2
+"count": 2,
+"_claim": [
+"Lake Bled",
+"Q648902",
+"building",
+"73b5b87a63e4"
+]
 }
 }
