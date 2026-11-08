@@ -81,7 +81,8 @@
 "Salar de Uyuni",
 "Dead Sea",
 "Lake Bled",
-"Everglades National Park"
+"Everglades National Park",
+"Gobi Desert"
 ],
 "done_q": [
 "Q7343",
@@ -164,7 +165,8 @@
 "Q76122",
 "Q23883",
 "Q648902",
-"Q274131"
+"Q274131",
+"Q42070"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -226,6 +228,12 @@
 "NA"
 ],
 "day": "2026-11-08",
-"count": 1
+"count": 1,
+"_claim": [
+"Gobi Desert",
+"Q42070",
+"building",
+"eac05a2ff250"
+]
 }
 }
