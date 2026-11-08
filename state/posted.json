@@ -220,20 +220,14 @@
 "Drakensberg": 3
 },
 "recent": [
-"NA",
 "EU",
 "SA",
 "AS",
 "EU",
-"NA"
+"NA",
+"AS"
 ],
 "day": "2026-11-08",
-"count": 1,
-"_claim": [
-"Gobi Desert",
-"Q42070",
-"building",
-"eac05a2ff250"
-]
+"count": 2
 }
 }
