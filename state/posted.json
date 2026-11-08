@@ -82,7 +82,8 @@
 "Dead Sea",
 "Lake Bled",
 "Everglades National Park",
-"Gobi Desert"
+"Gobi Desert",
+"Loch Ness"
 ],
 "done_q": [
 "Q7343",
@@ -166,7 +167,8 @@
 "Q23883",
 "Q648902",
 "Q274131",
-"Q42070"
+"Q42070",
+"Q49650"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -228,6 +230,12 @@
 "AS"
 ],
 "day": "2026-11-08",
-"count": 2
+"count": 2,
+"_claim": [
+"Loch Ness",
+"Q49650",
+"building",
+"d4918865f050"
+]
 }
 }
