@@ -80,7 +80,8 @@
 "Madeira",
 "Salar de Uyuni",
 "Dead Sea",
-"Lake Bled"
+"Lake Bled",
+"Everglades National Park"
 ],
 "done_q": [
 "Q7343",
@@ -162,7 +163,8 @@
 "Q26253",
 "Q76122",
 "Q23883",
-"Q648902"
+"Q648902",
+"Q274131"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -223,7 +225,13 @@
 "AS",
 "EU"
 ],
-"day": "2026-11-07",
-"count": 3
+"day": "2026-11-08",
+"count": 0,
+"_claim": [
+"Everglades National Park",
+"Q274131",
+"building",
+"fef606bd897e"
+]
 }
 }
