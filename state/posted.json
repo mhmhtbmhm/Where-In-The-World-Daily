@@ -83,7 +83,8 @@
 "Lake Bled",
 "Everglades National Park",
 "Gobi Desert",
-"Loch Ness"
+"Loch Ness",
+"Mammoth Cave National Park"
 ],
 "done_q": [
 "Q7343",
@@ -168,14 +169,15 @@
 "Q648902",
 "Q274131",
 "Q42070",
-"Q49650"
+"Q49650",
+"Q242681"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
 "Cliffs of Moher": 1,
 "Death Valley": 3,
 "Sossusvlei": 1,
-"Antelope Canyon": 1,
+"Antelope Canyon": 2,
 "Mont Blanc": 2,
 "Annapurna": 2,
 "Mount Kilimanjaro": 3,
@@ -229,7 +231,13 @@
 "AS",
 "EU"
 ],
-"day": "2026-11-08",
-"count": 3
+"day": "2026-11-09",
+"count": 0,
+"_claim": [
+"Mammoth Cave National Park",
+"Q242681",
+"building",
+"d45904482711"
+]
 }
 }
