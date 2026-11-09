@@ -84,7 +84,8 @@
 "Everglades National Park",
 "Gobi Desert",
 "Loch Ness",
-"Mammoth Cave National Park"
+"Mammoth Cave National Park",
+"Taj Mahal"
 ],
 "done_q": [
 "Q7343",
@@ -170,7 +171,8 @@
 "Q274131",
 "Q42070",
 "Q49650",
-"Q242681"
+"Q242681",
+"Q9141"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -232,6 +234,12 @@
 "NA"
 ],
 "day": "2026-11-09",
-"count": 1
+"count": 1,
+"_claim": [
+"Taj Mahal",
+"Q9141",
+"building",
+"6e16ec23cbdf"
+]
 }
 }
