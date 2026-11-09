@@ -226,20 +226,14 @@
 "Drakensberg": 3
 },
 "recent": [
-"AS",
 "EU",
 "NA",
 "AS",
 "EU",
-"NA"
+"NA",
+"AS"
 ],
 "day": "2026-11-09",
-"count": 1,
-"_claim": [
-"Taj Mahal",
-"Q9141",
-"building",
-"6e16ec23cbdf"
-]
+"count": 2
 }
 }
