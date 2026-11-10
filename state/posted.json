@@ -86,7 +86,8 @@
 "Loch Ness",
 "Mammoth Cave National Park",
 "Taj Mahal",
-"Fez, Morocco"
+"Fez, Morocco",
+"Sequoia National Park"
 ],
 "done_q": [
 "Q7343",
@@ -174,7 +175,8 @@
 "Q49650",
 "Q242681",
 "Q9141",
-"Q80985"
+"Q80985",
+"Q152660"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -236,6 +238,12 @@
 "AF"
 ],
 "day": "2026-11-10",
-"count": 1
+"count": 1,
+"_claim": [
+"Sequoia National Park",
+"Q152660",
+"building",
+"9c849794ad31"
+]
 }
 }
