@@ -87,7 +87,8 @@
 "Mammoth Cave National Park",
 "Taj Mahal",
 "Fez, Morocco",
-"Sequoia National Park"
+"Sequoia National Park",
+"Tongariro National Park"
 ],
 "done_q": [
 "Q7343",
@@ -176,7 +177,8 @@
 "Q242681",
 "Q9141",
 "Q80985",
-"Q152660"
+"Q152660",
+"Q202845"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -238,6 +240,12 @@
 "NA"
 ],
 "day": "2026-11-10",
-"count": 2
+"count": 2,
+"_claim": [
+"Tongariro National Park",
+"Q202845",
+"building",
+"c0825e680fa2"
+]
 }
 }
