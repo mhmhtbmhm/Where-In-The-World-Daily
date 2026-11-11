@@ -89,7 +89,8 @@
 "Fez, Morocco",
 "Sequoia National Park",
 "Tongariro National Park",
-"Tierra del Fuego"
+"Tierra del Fuego",
+"Mount Etna"
 ],
 "done_q": [
 "Q7343",
@@ -180,7 +181,8 @@
 "Q80985",
 "Q152660",
 "Q202845",
-"Q82601"
+"Q82601",
+"Q16990"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -232,7 +234,8 @@
 "Antarctic Peninsula": 2,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
 "Drakensberg": 3,
-"Isle of Skye": 1
+"Isle of Skye": 2,
+"Toubkal": 1
 },
 "recent": [
 "NA",
@@ -243,6 +246,12 @@
 "SA"
 ],
 "day": "2026-11-11",
-"count": 1
+"count": 1,
+"_claim": [
+"Mount Etna",
+"Q16990",
+"building",
+"28d73c6d8d4c"
+]
 }
 }
