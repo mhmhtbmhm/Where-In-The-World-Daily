@@ -88,7 +88,8 @@
 "Taj Mahal",
 "Fez, Morocco",
 "Sequoia National Park",
-"Tongariro National Park"
+"Tongariro National Park",
+"Tierra del Fuego"
 ],
 "done_q": [
 "Q7343",
@@ -178,7 +179,8 @@
 "Q9141",
 "Q80985",
 "Q152660",
-"Q202845"
+"Q202845",
+"Q82601"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -229,7 +231,8 @@
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
-"Drakensberg": 3
+"Drakensberg": 3,
+"Isle of Skye": 1
 },
 "recent": [
 "EU",
@@ -239,7 +242,13 @@
 "NA",
 "OC"
 ],
-"day": "2026-11-10",
-"count": 3
+"day": "2026-11-11",
+"count": 0,
+"_claim": [
+"Tierra del Fuego",
+"Q82601",
+"building",
+"927af5d13976"
+]
 }
 }
