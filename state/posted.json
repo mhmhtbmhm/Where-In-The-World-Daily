@@ -188,7 +188,7 @@
 "Mount Nyiragongo": 2,
 "Cliffs of Moher": 1,
 "Death Valley": 3,
-"Sossusvlei": 1,
+"Sossusvlei": 2,
 "Antelope Canyon": 2,
 "Mont Blanc": 2,
 "Annapurna": 2,
@@ -208,7 +208,7 @@
 "Wave Rock": 3,
 "Yosemite Falls": 3,
 "CN Tower": 3,
-"Great Blue Hole": 1,
+"Great Blue Hole": 2,
 "Quilotoa": 3,
 "Venice": 2,
 "Maldives": 3,
@@ -225,7 +225,7 @@
 "Merzouga": 3,
 "Eiffel Tower": 2,
 "Franz Josef Glacier": 3,
-"Mount Ararat": 1,
+"Mount Ararat": 2,
 "A\u00eft Benhaddou": 2,
 "Matterhorn": 1,
 "Mount Bromo": 2,
@@ -235,7 +235,9 @@
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
 "Drakensberg": 3,
 "Isle of Skye": 2,
-"Toubkal": 1
+"Toubkal": 2,
+"Cradle Mountain": 1,
+"Hopewell Rocks": 1
 },
 "recent": [
 "AS",
