@@ -235,20 +235,14 @@
 "Isle of Skye": 1
 },
 "recent": [
-"EU",
 "NA",
 "AS",
 "AF",
 "NA",
-"OC"
+"OC",
+"SA"
 ],
 "day": "2026-11-11",
-"count": 0,
-"_claim": [
-"Tierra del Fuego",
-"Q82601",
-"building",
-"927af5d13976"
-]
+"count": 1
 }
 }
