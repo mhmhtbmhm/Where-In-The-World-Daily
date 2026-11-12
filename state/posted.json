@@ -90,7 +90,8 @@
 "Sequoia National Park",
 "Tongariro National Park",
 "Tierra del Fuego",
-"Mount Etna"
+"Mount Etna",
+"Kruger National Park"
 ],
 "done_q": [
 "Q7343",
@@ -182,7 +183,8 @@
 "Q152660",
 "Q202845",
 "Q82601",
-"Q16990"
+"Q16990",
+"Q24451"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -237,7 +239,8 @@
 "Isle of Skye": 2,
 "Toubkal": 3,
 "Cradle Mountain": 2,
-"Hopewell Rocks": 2
+"Hopewell Rocks": 2,
+"Mount Kinabalu": 1
 },
 "recent": [
 "AS",
@@ -247,7 +250,13 @@
 "SA",
 "EU"
 ],
-"day": "2026-11-11",
-"count": 2
+"day": "2026-11-12",
+"count": 0,
+"_claim": [
+"Kruger National Park",
+"Q24451",
+"building",
+"0d3c9c019e02"
+]
 }
 }
