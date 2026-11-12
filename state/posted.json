@@ -92,7 +92,8 @@
 "Tierra del Fuego",
 "Mount Etna",
 "Kruger National Park",
-"Banff National Park"
+"Banff National Park",
+"Deception Island"
 ],
 "done_q": [
 "Q7343",
@@ -186,7 +187,8 @@
 "Q82601",
 "Q16990",
 "Q24451",
-"Q41858"
+"Q41858",
+"Q1045820"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -203,7 +205,7 @@
 "Phi Phi Islands": 3,
 "Mount Vesuvius": 2,
 "Pompeii": 3,
-"Giant's Causeway": 2,
+"Giant's Causeway": 3,
 "Huacachina": 2,
 "Grand Canyon": 3,
 "K\u012blauea": 3,
@@ -243,9 +245,9 @@
 "Cradle Mountain": 2,
 "Hopewell Rocks": 2,
 "Mount Kinabalu": 3,
-"Hegra Archaeological Site": 2,
-"Amalfi Coast": 1,
-"Cotopaxi": 1
+"Hegra Archaeological Site": 3,
+"Amalfi Coast": 2,
+"Cotopaxi": 2
 },
 "recent": [
 "NA",
@@ -256,6 +258,12 @@
 "NA"
 ],
 "day": "2026-11-12",
-"count": 2
+"count": 2,
+"_claim": [
+"Deception Island",
+"Q1045820",
+"building",
+"7f34bc2d37a4"
+]
 }
 }
