@@ -246,20 +246,14 @@
 "Hegra Archaeological Site": 1
 },
 "recent": [
-"AF",
 "NA",
 "OC",
 "SA",
 "EU",
-"AF"
+"AF",
+"NA"
 ],
 "day": "2026-11-12",
-"count": 1,
-"_claim": [
-"Banff National Park",
-"Q41858",
-"building",
-"8f56604b6e33"
-]
+"count": 2
 }
 }
