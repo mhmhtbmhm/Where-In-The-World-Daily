@@ -91,7 +91,8 @@
 "Tongariro National Park",
 "Tierra del Fuego",
 "Mount Etna",
-"Kruger National Park"
+"Kruger National Park",
+"Banff National Park"
 ],
 "done_q": [
 "Q7343",
@@ -184,7 +185,8 @@
 "Q202845",
 "Q82601",
 "Q16990",
-"Q24451"
+"Q24451",
+"Q41858"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -240,7 +242,8 @@
 "Toubkal": 3,
 "Cradle Mountain": 2,
 "Hopewell Rocks": 2,
-"Mount Kinabalu": 1
+"Mount Kinabalu": 2,
+"Hegra Archaeological Site": 1
 },
 "recent": [
 "AF",
@@ -251,6 +254,12 @@
 "AF"
 ],
 "day": "2026-11-12",
-"count": 1
+"count": 1,
+"_claim": [
+"Banff National Park",
+"Q41858",
+"building",
+"8f56604b6e33"
+]
 }
 }
