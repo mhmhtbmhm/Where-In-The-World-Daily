@@ -93,7 +93,8 @@
 "Mount Etna",
 "Kruger National Park",
 "Banff National Park",
-"Deception Island"
+"Deception Island",
+"Atacama Desert"
 ],
 "done_q": [
 "Q7343",
@@ -188,11 +189,12 @@
 "Q16990",
 "Q24451",
 "Q41858",
-"Q1045820"
+"Q1045820",
+"Q47141"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
-"Cliffs of Moher": 1,
+"Cliffs of Moher": 2,
 "Death Valley": 3,
 "Sossusvlei": 3,
 "Antelope Canyon": 2,
@@ -257,7 +259,13 @@
 "NA",
 "AN"
 ],
-"day": "2026-11-12",
-"count": 3
+"day": "2026-11-13",
+"count": 0,
+"_claim": [
+"Atacama Desert",
+"Q47141",
+"building",
+"047f1946bfb7"
+]
 }
 }
