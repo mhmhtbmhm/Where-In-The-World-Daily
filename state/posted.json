@@ -94,7 +94,8 @@
 "Kruger National Park",
 "Banff National Park",
 "Deception Island",
-"Atacama Desert"
+"Atacama Desert",
+"Essaouira"
 ],
 "done_q": [
 "Q7343",
@@ -190,11 +191,12 @@
 "Q24451",
 "Q41858",
 "Q1045820",
-"Q47141"
+"Q47141",
+"Q216939"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
-"Cliffs of Moher": 2,
+"Cliffs of Moher": 3,
 "Death Valley": 3,
 "Sossusvlei": 3,
 "Antelope Canyon": 2,
@@ -260,6 +262,12 @@
 "SA"
 ],
 "day": "2026-11-13",
-"count": 1
+"count": 1,
+"_claim": [
+"Essaouira",
+"Q216939",
+"building",
+"4c4e385dd89a"
+]
 }
 }
