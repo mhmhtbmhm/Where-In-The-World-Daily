@@ -95,7 +95,8 @@
 "Banff National Park",
 "Deception Island",
 "Atacama Desert",
-"Essaouira"
+"Essaouira",
+"Lake Garda"
 ],
 "done_q": [
 "Q7343",
@@ -192,7 +193,8 @@
 "Q41858",
 "Q1045820",
 "Q47141",
-"Q216939"
+"Q216939",
+"Q6414"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -262,6 +264,12 @@
 "AF"
 ],
 "day": "2026-11-13",
-"count": 2
+"count": 2,
+"_claim": [
+"Lake Garda",
+"Q6414",
+"building",
+"66bc1520daa9"
+]
 }
 }
