@@ -252,20 +252,14 @@
 "Cotopaxi": 2
 },
 "recent": [
-"OC",
 "SA",
 "EU",
 "AF",
 "NA",
-"AN"
+"AN",
+"SA"
 ],
 "day": "2026-11-13",
-"count": 0,
-"_claim": [
-"Atacama Desert",
-"Q47141",
-"building",
-"047f1946bfb7"
-]
+"count": 1
 }
 }
