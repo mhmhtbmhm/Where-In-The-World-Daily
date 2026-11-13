@@ -256,20 +256,14 @@
 "Cotopaxi": 2
 },
 "recent": [
-"EU",
 "AF",
 "NA",
 "AN",
 "SA",
-"AF"
+"AF",
+"EU"
 ],
 "day": "2026-11-13",
-"count": 2,
-"_claim": [
-"Lake Garda",
-"Q6414",
-"building",
-"66bc1520daa9"
-]
+"count": 3
 }
 }
