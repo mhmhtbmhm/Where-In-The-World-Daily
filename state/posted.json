@@ -96,7 +96,8 @@
 "Deception Island",
 "Atacama Desert",
 "Essaouira",
-"Lake Garda"
+"Lake Garda",
+"Petronas Towers"
 ],
 "done_q": [
 "Q7343",
@@ -194,7 +195,8 @@
 "Q1045820",
 "Q47141",
 "Q216939",
-"Q6414"
+"Q6414",
+"Q83063"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -231,7 +233,7 @@
 "Bran Castle": 3,
 "Horseshoe Bend": 3,
 "Colca Canyon": 3,
-"Bungle Bungle Range": 2,
+"Bungle Bungle Range": 3,
 "Cape of Good Hope": 3,
 "Cappadocia": 1,
 "Merzouga": 3,
@@ -263,7 +265,13 @@
 "AF",
 "EU"
 ],
-"day": "2026-11-13",
-"count": 3
+"day": "2026-11-14",
+"count": 0,
+"_claim": [
+"Petronas Towers",
+"Q83063",
+"building",
+"41a4dff76bb3"
+]
 }
 }
