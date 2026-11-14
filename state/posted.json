@@ -97,7 +97,8 @@
 "Atacama Desert",
 "Essaouira",
 "Lake Garda",
-"Petronas Towers"
+"Petronas Towers",
+"Ngorongoro Conservation Area"
 ],
 "done_q": [
 "Q7343",
@@ -196,7 +197,8 @@
 "Q47141",
 "Q216939",
 "Q6414",
-"Q83063"
+"Q83063",
+"Q1217726"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -228,7 +230,7 @@
 "Maldives": 3,
 "Registan": 2,
 "Raja Ampat Islands": 2,
-"Kaieteur Falls": 2,
+"Kaieteur Falls": 3,
 "Cabo da Roca": 2,
 "Bran Castle": 3,
 "Horseshoe Bend": 3,
@@ -255,7 +257,8 @@
 "Mount Kinabalu": 3,
 "Hegra Archaeological Site": 3,
 "Amalfi Coast": 2,
-"Cotopaxi": 2
+"Cotopaxi": 2,
+"Cocora Valley": 1
 },
 "recent": [
 "NA",
@@ -266,6 +269,12 @@
 "AS"
 ],
 "day": "2026-11-14",
-"count": 1
+"count": 1,
+"_claim": [
+"Ngorongoro Conservation Area",
+"Q1217726",
+"building",
+"043ae1ff643f"
+]
 }
 }
