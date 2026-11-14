@@ -98,7 +98,8 @@
 "Essaouira",
 "Lake Garda",
 "Petronas Towers",
-"Ngorongoro Conservation Area"
+"Ngorongoro Conservation Area",
+"Tower Bridge"
 ],
 "done_q": [
 "Q7343",
@@ -198,7 +199,8 @@
 "Q216939",
 "Q6414",
 "Q83063",
-"Q1217726"
+"Q1217726",
+"Q83125"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -226,7 +228,7 @@
 "CN Tower": 3,
 "Great Blue Hole": 3,
 "Quilotoa": 3,
-"Venice": 2,
+"Venice": 3,
 "Maldives": 3,
 "Registan": 2,
 "Raja Ampat Islands": 2,
@@ -258,7 +260,10 @@
 "Hegra Archaeological Site": 3,
 "Amalfi Coast": 2,
 "Cotopaxi": 2,
-"Cocora Valley": 1
+"Cocora Valley": 2,
+"Colosseum": 1,
+"Alhambra": 1,
+"Cinque Terre": 1
 },
 "recent": [
 "AN",
@@ -269,6 +274,12 @@
 "AF"
 ],
 "day": "2026-11-14",
-"count": 2
+"count": 2,
+"_claim": [
+"Tower Bridge",
+"Q83125",
+"building",
+"b7125ae6dab0"
+]
 }
 }
