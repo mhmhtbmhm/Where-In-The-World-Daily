@@ -100,7 +100,8 @@
 "Petronas Towers",
 "Ngorongoro Conservation Area",
 "Tower Bridge",
-"Moraine Lake"
+"Moraine Lake",
+"Chefchaouen"
 ],
 "done_q": [
 "Q7343",
@@ -202,7 +203,8 @@
 "Q83063",
 "Q1217726",
 "Q83125",
-"Q1072342"
+"Q1072342",
+"Q676778"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -276,6 +278,12 @@
 "NA"
 ],
 "day": "2026-11-15",
-"count": 1
+"count": 1,
+"_claim": [
+"Chefchaouen",
+"Q676778",
+"building",
+"d0139a6714c7"
+]
 }
 }
