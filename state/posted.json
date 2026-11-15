@@ -99,7 +99,8 @@
 "Lake Garda",
 "Petronas Towers",
 "Ngorongoro Conservation Area",
-"Tower Bridge"
+"Tower Bridge",
+"Moraine Lake"
 ],
 "done_q": [
 "Q7343",
@@ -200,7 +201,8 @@
 "Q6414",
 "Q83063",
 "Q1217726",
-"Q83125"
+"Q83125",
+"Q1072342"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -273,7 +275,13 @@
 "AF",
 "EU"
 ],
-"day": "2026-11-14",
-"count": 3
+"day": "2026-11-15",
+"count": 0,
+"_claim": [
+"Moraine Lake",
+"Q1072342",
+"building",
+"fd59364cf0d8"
+]
 }
 }
