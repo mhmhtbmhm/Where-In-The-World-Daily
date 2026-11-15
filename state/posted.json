@@ -101,7 +101,8 @@
 "Ngorongoro Conservation Area",
 "Tower Bridge",
 "Moraine Lake",
-"Chefchaouen"
+"Chefchaouen",
+"Bia\u0142owie\u017ca Forest"
 ],
 "done_q": [
 "Q7343",
@@ -204,7 +205,8 @@
 "Q1217726",
 "Q83125",
 "Q1072342",
-"Q676778"
+"Q676778",
+"Q192666"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -278,6 +280,12 @@
 "AF"
 ],
 "day": "2026-11-15",
-"count": 2
+"count": 2,
+"_claim": [
+"Bia\u0142owie\u017ca Forest",
+"Q192666",
+"building",
+"7c2060f2b0b2"
+]
 }
 }
