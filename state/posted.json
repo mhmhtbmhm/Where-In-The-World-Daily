@@ -104,7 +104,8 @@
 "Chefchaouen",
 "Bia\u0142owie\u017ca Forest",
 "Shanghai Tower",
-"Angel Falls"
+"Angel Falls",
+"Ordesa y Monte Perdido National Park"
 ],
 "done_q": [
 "Q7343",
@@ -210,7 +211,8 @@
 "Q676778",
 "Q192666",
 "Q18547",
-"Q80299"
+"Q80299",
+"Q741610"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -277,7 +279,8 @@
 "Havasu Falls": 2,
 "Pantanal": 2,
 "Monument Valley": 2,
-"Waitomo Caves": 2
+"Waitomo Caves": 2,
+"Sk\u00f3gafoss": 1
 },
 "recent": [
 "EU",
@@ -288,6 +291,12 @@
 "SA"
 ],
 "day": "2026-11-16",
-"count": 2
+"count": 2,
+"_claim": [
+"Ordesa y Monte Perdido National Park",
+"Q741610",
+"building",
+"1114b88321fe"
+]
 }
 }
