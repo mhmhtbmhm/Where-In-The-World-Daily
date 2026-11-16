@@ -103,7 +103,8 @@
 "Moraine Lake",
 "Chefchaouen",
 "Bia\u0142owie\u017ca Forest",
-"Shanghai Tower"
+"Shanghai Tower",
+"Angel Falls"
 ],
 "done_q": [
 "Q7343",
@@ -208,7 +209,8 @@
 "Q1072342",
 "Q676778",
 "Q192666",
-"Q18547"
+"Q18547",
+"Q80299"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -252,7 +254,7 @@
 "Eiffel Tower": 3,
 "Franz Josef Glacier": 3,
 "Mount Ararat": 3,
-"A\u00eft Benhaddou": 2,
+"A\u00eft Benhaddou": 3,
 "Matterhorn": 1,
 "Mount Bromo": 2,
 "Erg Chebbi": 1,
@@ -272,10 +274,10 @@
 "Colosseum": 1,
 "Alhambra": 1,
 "Cinque Terre": 1,
-"Havasu Falls": 1,
-"Pantanal": 1,
-"Monument Valley": 1,
-"Waitomo Caves": 1
+"Havasu Falls": 2,
+"Pantanal": 2,
+"Monument Valley": 2,
+"Waitomo Caves": 2
 },
 "recent": [
 "AF",
@@ -286,6 +288,12 @@
 "AS"
 ],
 "day": "2026-11-16",
-"count": 1
+"count": 1,
+"_claim": [
+"Angel Falls",
+"Q80299",
+"building",
+"ab241ee7a2e9"
+]
 }
 }
