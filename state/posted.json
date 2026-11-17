@@ -105,7 +105,8 @@
 "Bia\u0142owie\u017ca Forest",
 "Shanghai Tower",
 "Angel Falls",
-"Ordesa y Monte Perdido National Park"
+"Ordesa y Monte Perdido National Park",
+"Tokyo Skytree"
 ],
 "done_q": [
 "Q7343",
@@ -212,7 +213,8 @@
 "Q192666",
 "Q18547",
 "Q80299",
-"Q741610"
+"Q741610",
+"Q57965"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -290,7 +292,13 @@
 "SA",
 "EU"
 ],
-"day": "2026-11-16",
-"count": 3
+"day": "2026-11-17",
+"count": 0,
+"_claim": [
+"Tokyo Skytree",
+"Q57965",
+"building",
+"013601e8c9e0"
+]
 }
 }
