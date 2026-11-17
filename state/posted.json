@@ -106,7 +106,8 @@
 "Shanghai Tower",
 "Angel Falls",
 "Ordesa y Monte Perdido National Park",
-"Tokyo Skytree"
+"Tokyo Skytree",
+"Torres del Paine National Park"
 ],
 "done_q": [
 "Q7343",
@@ -214,7 +215,8 @@
 "Q18547",
 "Q80299",
 "Q741610",
-"Q57965"
+"Q57965",
+"Q901646"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -282,7 +284,9 @@
 "Pantanal": 2,
 "Monument Valley": 2,
 "Waitomo Caves": 2,
-"Sk\u00f3gafoss": 1
+"Sk\u00f3gafoss": 1,
+"Todgha Gorges": 1,
+"Mount Roraima": 1
 },
 "recent": [
 "AF",
@@ -293,6 +297,12 @@
 "AS"
 ],
 "day": "2026-11-17",
-"count": 1
+"count": 1,
+"_claim": [
+"Torres del Paine National Park",
+"Q901646",
+"building",
+"8b702d2713f1"
+]
 }
 }
