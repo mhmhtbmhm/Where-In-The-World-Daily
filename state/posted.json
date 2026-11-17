@@ -107,7 +107,8 @@
 "Angel Falls",
 "Ordesa y Monte Perdido National Park",
 "Tokyo Skytree",
-"Torres del Paine National Park"
+"Torres del Paine National Park",
+"K'gari"
 ],
 "done_q": [
 "Q7343",
@@ -216,7 +217,8 @@
 "Q80299",
 "Q741610",
 "Q57965",
-"Q901646"
+"Q901646",
+"Q134905"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -285,7 +287,7 @@
 "Monument Valley": 2,
 "Waitomo Caves": 2,
 "Sk\u00f3gafoss": 1,
-"Todgha Gorges": 1,
+"Todgha Gorges": 2,
 "Mount Roraima": 1
 },
 "recent": [
@@ -297,6 +299,12 @@
 "SA"
 ],
 "day": "2026-11-17",
-"count": 2
+"count": 2,
+"_claim": [
+"K'gari",
+"Q134905",
+"building",
+"a36649dd44b6"
+]
 }
 }
