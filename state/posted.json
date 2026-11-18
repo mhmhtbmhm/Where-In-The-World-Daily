@@ -109,7 +109,8 @@
 "Tokyo Skytree",
 "Torres del Paine National Park",
 "K'gari",
-"Burj Al Arab"
+"Burj Al Arab",
+"Okavango Delta"
 ],
 "done_q": [
 "Q7343",
@@ -220,7 +221,8 @@
 "Q57965",
 "Q901646",
 "Q134905",
-"Q62939"
+"Q62939",
+"Q650872"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -290,7 +292,10 @@
 "Waitomo Caves": 2,
 "Sk\u00f3gafoss": 1,
 "Todgha Gorges": 2,
-"Mount Roraima": 1
+"Mount Roraima": 1,
+"Vinicunca": 1,
+"Mount Olympus": 1,
+"Eisriesenwelt": 1
 },
 "recent": [
 "SA",
@@ -301,6 +306,12 @@
 "AS"
 ],
 "day": "2026-11-18",
-"count": 1
+"count": 1,
+"_claim": [
+"Okavango Delta",
+"Q650872",
+"building",
+"0427ec23367f"
+]
 }
 }
