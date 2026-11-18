@@ -110,7 +110,8 @@
 "Torres del Paine National Park",
 "K'gari",
 "Burj Al Arab",
-"Okavango Delta"
+"Okavango Delta",
+"Sydney Opera House"
 ],
 "done_q": [
 "Q7343",
@@ -222,7 +223,8 @@
 "Q901646",
 "Q134905",
 "Q62939",
-"Q650872"
+"Q650872",
+"Q45178"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -293,7 +295,7 @@
 "Sk\u00f3gafoss": 1,
 "Todgha Gorges": 2,
 "Mount Roraima": 1,
-"Vinicunca": 1,
+"Vinicunca": 2,
 "Mount Olympus": 1,
 "Eisriesenwelt": 1
 },
@@ -306,6 +308,12 @@
 "AF"
 ],
 "day": "2026-11-18",
-"count": 2
+"count": 2,
+"_claim": [
+"Sydney Opera House",
+"Q45178",
+"building",
+"2f7c4010f6b9"
+]
 }
 }
