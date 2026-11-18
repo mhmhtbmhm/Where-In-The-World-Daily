@@ -108,7 +108,8 @@
 "Ordesa y Monte Perdido National Park",
 "Tokyo Skytree",
 "Torres del Paine National Park",
-"K'gari"
+"K'gari",
+"Burj Al Arab"
 ],
 "done_q": [
 "Q7343",
@@ -218,7 +219,8 @@
 "Q741610",
 "Q57965",
 "Q901646",
-"Q134905"
+"Q134905",
+"Q62939"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -298,7 +300,13 @@
 "SA",
 "OC"
 ],
-"day": "2026-11-17",
-"count": 3
+"day": "2026-11-18",
+"count": 0,
+"_claim": [
+"Burj Al Arab",
+"Q62939",
+"building",
+"ea9bc3f74ffd"
+]
 }
 }
