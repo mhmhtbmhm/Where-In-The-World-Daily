@@ -300,20 +300,14 @@
 "Eisriesenwelt": 1
 },
 "recent": [
-"EU",
 "AS",
 "SA",
 "OC",
 "AS",
-"AF"
+"AF",
+"OC"
 ],
 "day": "2026-11-18",
-"count": 2,
-"_claim": [
-"Sydney Opera House",
-"Q45178",
-"building",
-"2f7c4010f6b9"
-]
+"count": 3
 }
 }
