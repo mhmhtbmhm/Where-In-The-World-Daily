@@ -111,7 +111,8 @@
 "K'gari",
 "Burj Al Arab",
 "Okavango Delta",
-"Sydney Opera House"
+"Sydney Opera House",
+"Mount Fuji"
 ],
 "done_q": [
 "Q7343",
@@ -224,7 +225,8 @@
 "Q134905",
 "Q62939",
 "Q650872",
-"Q45178"
+"Q45178",
+"Q39231"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -307,7 +309,13 @@
 "AF",
 "OC"
 ],
-"day": "2026-11-18",
-"count": 3
+"day": "2026-11-19",
+"count": 0,
+"_claim": [
+"Mount Fuji",
+"Q39231",
+"building",
+"3d05685a889b"
+]
 }
 }
