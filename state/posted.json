@@ -112,7 +112,8 @@
 "Burj Al Arab",
 "Okavango Delta",
 "Sydney Opera House",
-"Mount Fuji"
+"Mount Fuji",
+"Yosemite National Park"
 ],
 "done_q": [
 "Q7343",
@@ -226,7 +227,8 @@
 "Q62939",
 "Q650872",
 "Q45178",
-"Q39231"
+"Q39231",
+"Q180402"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -310,6 +312,12 @@
 "AS"
 ],
 "day": "2026-11-19",
-"count": 1
+"count": 1,
+"_claim": [
+"Yosemite National Park",
+"Q180402",
+"building",
+"33c466743dbf"
+]
 }
 }
