@@ -113,7 +113,8 @@
 "Okavango Delta",
 "Sydney Opera House",
 "Mount Fuji",
-"Yosemite National Park"
+"Yosemite National Park",
+"Hallstatt"
 ],
 "done_q": [
 "Q7343",
@@ -228,7 +229,8 @@
 "Q650872",
 "Q45178",
 "Q39231",
-"Q180402"
+"Q180402",
+"Q131633"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -289,7 +291,7 @@
 "Amalfi Coast": 2,
 "Cotopaxi": 2,
 "Cocora Valley": 2,
-"Colosseum": 1,
+"Colosseum": 2,
 "Alhambra": 1,
 "Cinque Terre": 1,
 "Havasu Falls": 2,
@@ -312,6 +314,12 @@
 "NA"
 ],
 "day": "2026-11-19",
-"count": 2
+"count": 2,
+"_claim": [
+"Hallstatt",
+"Q131633",
+"building",
+"ec0dc22845a8"
+]
 }
 }
