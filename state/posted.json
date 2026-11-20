@@ -114,7 +114,8 @@
 "Sydney Opera House",
 "Mount Fuji",
 "Yosemite National Park",
-"Hallstatt"
+"Hallstatt",
+"Great Wall of China"
 ],
 "done_q": [
 "Q7343",
@@ -230,7 +231,8 @@
 "Q45178",
 "Q39231",
 "Q180402",
-"Q131633"
+"Q131633",
+"Q12501"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -299,11 +301,14 @@
 "Monument Valley": 2,
 "Waitomo Caves": 2,
 "Sk\u00f3gafoss": 1,
-"Todgha Gorges": 2,
+"Todgha Gorges": 3,
 "Mount Roraima": 1,
 "Vinicunca": 2,
 "Mount Olympus": 1,
-"Eisriesenwelt": 1
+"Eisriesenwelt": 1,
+"Blue Nile Falls": 1,
+"Table Mountain": 1,
+"Lake Hillier": 1
 },
 "recent": [
 "AS",
@@ -313,7 +318,13 @@
 "NA",
 "EU"
 ],
-"day": "2026-11-19",
-"count": 3
+"day": "2026-11-20",
+"count": 0,
+"_claim": [
+"Great Wall of China",
+"Q12501",
+"building",
+"577eb407dd0b"
+]
 }
 }
