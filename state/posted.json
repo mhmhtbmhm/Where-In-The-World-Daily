@@ -116,7 +116,8 @@
 "Yosemite National Park",
 "Hallstatt",
 "Great Wall of China",
-"Bryce Canyon National Park"
+"Bryce Canyon National Park",
+"Avenue of the Baobabs"
 ],
 "done_q": [
 "Q7343",
@@ -234,7 +235,8 @@
 "Q180402",
 "Q131633",
 "Q12501",
-"Q219562"
+"Q219562",
+"Q788084"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -279,7 +281,7 @@
 "Franz Josef Glacier": 3,
 "Mount Ararat": 3,
 "A\u00eft Benhaddou": 3,
-"Matterhorn": 2,
+"Matterhorn": 3,
 "Mount Bromo": 2,
 "Erg Chebbi": 1,
 "Pamukkale": 1,
@@ -305,14 +307,14 @@
 "Sk\u00f3gafoss": 1,
 "Todgha Gorges": 3,
 "Mount Roraima": 1,
-"Vinicunca": 2,
+"Vinicunca": 3,
 "Mount Olympus": 1,
 "Eisriesenwelt": 1,
 "Blue Nile Falls": 3,
 "Table Mountain": 3,
 "Lake Hillier": 3,
-"Gullfoss": 1,
-"Twelve Apostles (Victoria)": 1
+"Gullfoss": 2,
+"Twelve Apostles (Victoria)": 2
 },
 "recent": [
 "OC",
@@ -323,6 +325,12 @@
 "NA"
 ],
 "day": "2026-11-20",
-"count": 2
+"count": 2,
+"_claim": [
+"Avenue of the Baobabs",
+"Q788084",
+"building",
+"03fe1acf4ace"
+]
 }
 }
