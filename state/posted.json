@@ -311,20 +311,14 @@
 "Lake Hillier": 1
 },
 "recent": [
-"AS",
 "AF",
 "OC",
 "AS",
 "NA",
-"EU"
+"EU",
+"AS"
 ],
 "day": "2026-11-20",
-"count": 0,
-"_claim": [
-"Great Wall of China",
-"Q12501",
-"building",
-"577eb407dd0b"
-]
+"count": 1
 }
 }
