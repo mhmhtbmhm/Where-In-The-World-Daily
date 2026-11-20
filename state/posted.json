@@ -115,7 +115,8 @@
 "Mount Fuji",
 "Yosemite National Park",
 "Hallstatt",
-"Great Wall of China"
+"Great Wall of China",
+"Bryce Canyon National Park"
 ],
 "done_q": [
 "Q7343",
@@ -232,7 +233,8 @@
 "Q39231",
 "Q180402",
 "Q131633",
-"Q12501"
+"Q12501",
+"Q219562"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -306,9 +308,9 @@
 "Vinicunca": 2,
 "Mount Olympus": 1,
 "Eisriesenwelt": 1,
-"Blue Nile Falls": 1,
-"Table Mountain": 1,
-"Lake Hillier": 1
+"Blue Nile Falls": 2,
+"Table Mountain": 2,
+"Lake Hillier": 2
 },
 "recent": [
 "AF",
@@ -319,6 +321,12 @@
 "AS"
 ],
 "day": "2026-11-20",
-"count": 1
+"count": 1,
+"_claim": [
+"Bryce Canyon National Park",
+"Q219562",
+"building",
+"a0c4138dc08d"
+]
 }
 }
