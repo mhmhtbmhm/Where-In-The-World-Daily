@@ -117,7 +117,8 @@
 "Hallstatt",
 "Great Wall of China",
 "Bryce Canyon National Park",
-"Avenue of the Baobabs"
+"Avenue of the Baobabs",
+"Len\u00e7\u00f3is Maranhenses National Park"
 ],
 "done_q": [
 "Q7343",
@@ -236,7 +237,8 @@
 "Q131633",
 "Q12501",
 "Q219562",
-"Q788084"
+"Q788084",
+"Q647777"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -294,16 +296,16 @@
 "Hopewell Rocks": 2,
 "Mount Kinabalu": 3,
 "Hegra Archaeological Site": 3,
-"Amalfi Coast": 2,
+"Amalfi Coast": 3,
 "Cotopaxi": 2,
 "Cocora Valley": 2,
 "Colosseum": 2,
 "Alhambra": 1,
-"Cinque Terre": 1,
+"Cinque Terre": 2,
 "Havasu Falls": 2,
 "Pantanal": 2,
 "Monument Valley": 2,
-"Waitomo Caves": 2,
+"Waitomo Caves": 3,
 "Sk\u00f3gafoss": 1,
 "Todgha Gorges": 3,
 "Mount Roraima": 1,
@@ -314,7 +316,8 @@
 "Table Mountain": 3,
 "Lake Hillier": 3,
 "Gullfoss": 2,
-"Twelve Apostles (Victoria)": 2
+"Twelve Apostles (Victoria)": 2,
+"Rock Islands Southern Lagoon": 1
 },
 "recent": [
 "AS",
@@ -324,7 +327,13 @@
 "NA",
 "AF"
 ],
-"day": "2026-11-20",
-"count": 3
+"day": "2026-11-21",
+"count": 0,
+"_claim": [
+"Len\u00e7\u00f3is Maranhenses National Park",
+"Q647777",
+"building",
+"186924aa1b7f"
+]
 }
 }
