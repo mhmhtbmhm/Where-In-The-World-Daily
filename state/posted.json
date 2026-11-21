@@ -119,7 +119,8 @@
 "Bryce Canyon National Park",
 "Avenue of the Baobabs",
 "Len\u00e7\u00f3is Maranhenses National Park",
-"Zion National Park"
+"Zion National Park",
+"Serengeti National Park"
 ],
 "done_q": [
 "Q7343",
@@ -240,7 +241,8 @@
 "Q219562",
 "Q788084",
 "Q647777",
-"Q205325"
+"Q205325",
+"Q11812902"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -287,7 +289,7 @@
 "A\u00eft Benhaddou": 3,
 "Matterhorn": 3,
 "Mount Bromo": 3,
-"Erg Chebbi": 1,
+"Erg Chebbi": 2,
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
@@ -321,7 +323,7 @@
 "Twelve Apostles (Victoria)": 2,
 "Rock Islands Southern Lagoon": 3,
 "Bay of Fundy": 2,
-"Geirangerfjord": 2
+"Geirangerfjord": 3
 },
 "recent": [
 "EU",
@@ -332,6 +334,12 @@
 "NA"
 ],
 "day": "2026-11-21",
-"count": 2
+"count": 2,
+"_claim": [
+"Serengeti National Park",
+"Q11812902",
+"building",
+"918660a7fb77"
+]
 }
 }
