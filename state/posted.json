@@ -118,7 +118,8 @@
 "Great Wall of China",
 "Bryce Canyon National Park",
 "Avenue of the Baobabs",
-"Len\u00e7\u00f3is Maranhenses National Park"
+"Len\u00e7\u00f3is Maranhenses National Park",
+"Zion National Park"
 ],
 "done_q": [
 "Q7343",
@@ -238,7 +239,8 @@
 "Q12501",
 "Q219562",
 "Q788084",
-"Q647777"
+"Q647777",
+"Q205325"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -317,9 +319,9 @@
 "Lake Hillier": 3,
 "Gullfoss": 2,
 "Twelve Apostles (Victoria)": 2,
-"Rock Islands Southern Lagoon": 2,
-"Bay of Fundy": 1,
-"Geirangerfjord": 1
+"Rock Islands Southern Lagoon": 3,
+"Bay of Fundy": 2,
+"Geirangerfjord": 2
 },
 "recent": [
 "NA",
@@ -330,6 +332,12 @@
 "SA"
 ],
 "day": "2026-11-21",
-"count": 1
+"count": 1,
+"_claim": [
+"Zion National Park",
+"Q205325",
+"building",
+"5dff83e10f33"
+]
 }
 }
