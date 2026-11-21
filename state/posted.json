@@ -326,20 +326,14 @@
 "Geirangerfjord": 3
 },
 "recent": [
-"EU",
 "AS",
 "NA",
 "AF",
 "SA",
-"NA"
+"NA",
+"AF"
 ],
 "day": "2026-11-21",
-"count": 2,
-"_claim": [
-"Serengeti National Park",
-"Q11812902",
-"building",
-"918660a7fb77"
-]
+"count": 3
 }
 }
