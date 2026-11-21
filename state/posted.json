@@ -284,7 +284,7 @@
 "Mount Ararat": 3,
 "A\u00eft Benhaddou": 3,
 "Matterhorn": 3,
-"Mount Bromo": 2,
+"Mount Bromo": 3,
 "Erg Chebbi": 1,
 "Pamukkale": 1,
 "Antarctic Peninsula": 2,
@@ -293,7 +293,7 @@
 "Isle of Skye": 3,
 "Toubkal": 3,
 "Cradle Mountain": 3,
-"Hopewell Rocks": 2,
+"Hopewell Rocks": 3,
 "Mount Kinabalu": 3,
 "Hegra Archaeological Site": 3,
 "Amalfi Coast": 3,
@@ -301,7 +301,7 @@
 "Cocora Valley": 2,
 "Colosseum": 2,
 "Alhambra": 1,
-"Cinque Terre": 2,
+"Cinque Terre": 3,
 "Havasu Falls": 2,
 "Pantanal": 2,
 "Monument Valley": 2,
@@ -317,7 +317,9 @@
 "Lake Hillier": 3,
 "Gullfoss": 2,
 "Twelve Apostles (Victoria)": 2,
-"Rock Islands Southern Lagoon": 1
+"Rock Islands Southern Lagoon": 2,
+"Bay of Fundy": 1,
+"Geirangerfjord": 1
 },
 "recent": [
 "NA",
