@@ -121,7 +121,8 @@
 "Len\u00e7\u00f3is Maranhenses National Park",
 "Zion National Park",
 "Serengeti National Park",
-"Iguazu Falls"
+"Iguazu Falls",
+"Zhangjiajie National Forest Park"
 ],
 "done_q": [
 "Q7343",
@@ -244,7 +245,8 @@
 "Q647777",
 "Q205325",
 "Q11812902",
-"Q36332"
+"Q36332",
+"Q3895620"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -274,7 +276,7 @@
 "Quilotoa": 3,
 "Venice": 3,
 "Maldives": 3,
-"Registan": 2,
+"Registan": 3,
 "Raja Ampat Islands": 2,
 "Kaieteur Falls": 3,
 "Cabo da Roca": 2,
@@ -293,7 +295,7 @@
 "Mount Bromo": 3,
 "Erg Chebbi": 2,
 "Pamukkale": 1,
-"Antarctic Peninsula": 2,
+"Antarctic Peninsula": 3,
 "J\u00f6kuls\u00e1rl\u00f3n": 1,
 "Drakensberg": 3,
 "Isle of Skye": 3,
@@ -325,7 +327,9 @@
 "Twelve Apostles (Victoria)": 2,
 "Rock Islands Southern Lagoon": 3,
 "Bay of Fundy": 2,
-"Geirangerfjord": 3
+"Geirangerfjord": 3,
+"Zugspitze": 1,
+"Golden Gate Bridge": 1
 },
 "recent": [
 "NA",
@@ -336,6 +340,12 @@
 "SA"
 ],
 "day": "2026-11-22",
-"count": 1
+"count": 1,
+"_claim": [
+"Zhangjiajie National Forest Park",
+"Q3895620",
+"building",
+"dbded0b6457f"
+]
 }
 }
