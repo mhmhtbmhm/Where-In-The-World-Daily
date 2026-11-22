@@ -249,7 +249,7 @@
 "Q3895620"
 ],
 "fail": {
-"Mount Nyiragongo": 2,
+"Mount Nyiragongo": 3,
 "Cliffs of Moher": 3,
 "Death Valley": 3,
 "Sossusvlei": 3,
@@ -296,7 +296,7 @@
 "Erg Chebbi": 2,
 "Pamukkale": 1,
 "Antarctic Peninsula": 3,
-"J\u00f6kuls\u00e1rl\u00f3n": 1,
+"J\u00f6kuls\u00e1rl\u00f3n": 2,
 "Drakensberg": 3,
 "Isle of Skye": 3,
 "Toubkal": 3,
@@ -323,13 +323,14 @@
 "Blue Nile Falls": 3,
 "Table Mountain": 3,
 "Lake Hillier": 3,
-"Gullfoss": 2,
+"Gullfoss": 3,
 "Twelve Apostles (Victoria)": 2,
 "Rock Islands Southern Lagoon": 3,
 "Bay of Fundy": 2,
 "Geirangerfjord": 3,
-"Zugspitze": 1,
-"Golden Gate Bridge": 1
+"Zugspitze": 2,
+"Golden Gate Bridge": 2,
+"Danakil Depression": 1
 },
 "recent": [
 "AF",
