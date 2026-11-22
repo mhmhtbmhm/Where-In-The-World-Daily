@@ -120,7 +120,8 @@
 "Avenue of the Baobabs",
 "Len\u00e7\u00f3is Maranhenses National Park",
 "Zion National Park",
-"Serengeti National Park"
+"Serengeti National Park",
+"Iguazu Falls"
 ],
 "done_q": [
 "Q7343",
@@ -242,7 +243,8 @@
 "Q788084",
 "Q647777",
 "Q205325",
-"Q11812902"
+"Q11812902",
+"Q36332"
 ],
 "fail": {
 "Mount Nyiragongo": 2,
@@ -333,7 +335,13 @@
 "NA",
 "AF"
 ],
-"day": "2026-11-21",
-"count": 3
+"day": "2026-11-22",
+"count": 0,
+"_claim": [
+"Iguazu Falls",
+"Q36332",
+"building",
+"41f6430c353f"
+]
 }
 }
