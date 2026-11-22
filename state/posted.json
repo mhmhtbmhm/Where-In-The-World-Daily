@@ -328,20 +328,14 @@
 "Geirangerfjord": 3
 },
 "recent": [
-"AS",
 "NA",
 "AF",
 "SA",
 "NA",
-"AF"
+"AF",
+"SA"
 ],
 "day": "2026-11-22",
-"count": 0,
-"_claim": [
-"Iguazu Falls",
-"Q36332",
-"building",
-"41f6430c353f"
-]
+"count": 1
 }
 }
