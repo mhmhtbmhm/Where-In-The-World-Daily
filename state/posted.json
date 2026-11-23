@@ -124,7 +124,8 @@
 "Iguazu Falls",
 "Zhangjiajie National Forest Park",
 "Bora Bora",
-"Neuschwanstein Castle"
+"Neuschwanstein Castle",
+"Jiuzhaigou Valley"
 ],
 "done_q": [
 "Q7343",
@@ -250,7 +251,8 @@
 "Q36332",
 "Q3895620",
 "Q183113",
-"Q4152"
+"Q4152",
+"Q4111"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -298,7 +300,7 @@
 "Matterhorn": 3,
 "Mount Bromo": 3,
 "Erg Chebbi": 2,
-"Pamukkale": 1,
+"Pamukkale": 2,
 "Antarctic Peninsula": 3,
 "J\u00f6kuls\u00e1rl\u00f3n": 2,
 "Drakensberg": 3,
@@ -335,7 +337,8 @@
 "Zugspitze": 2,
 "Golden Gate Bridge": 2,
 "Danakil Depression": 3,
-"Niagara Falls": 2
+"Niagara Falls": 3,
+"Li River": 1
 },
 "recent": [
 "NA",
@@ -346,6 +349,12 @@
 "EU"
 ],
 "day": "2026-11-23",
-"count": 2
+"count": 2,
+"_claim": [
+"Jiuzhaigou Valley",
+"Q4111",
+"building",
+"469ba7ce4944"
+]
 }
 }
