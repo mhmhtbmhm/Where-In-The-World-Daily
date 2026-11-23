@@ -122,7 +122,8 @@
 "Zion National Park",
 "Serengeti National Park",
 "Iguazu Falls",
-"Zhangjiajie National Forest Park"
+"Zhangjiajie National Forest Park",
+"Bora Bora"
 ],
 "done_q": [
 "Q7343",
@@ -246,7 +247,8 @@
 "Q205325",
 "Q11812902",
 "Q36332",
-"Q3895620"
+"Q3895620",
+"Q183113"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -340,7 +342,13 @@
 "SA",
 "AS"
 ],
-"day": "2026-11-22",
-"count": 2
+"day": "2026-11-23",
+"count": 0,
+"_claim": [
+"Bora Bora",
+"Q183113",
+"building",
+"4b76bdc56ba1"
+]
 }
 }
