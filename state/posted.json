@@ -123,7 +123,8 @@
 "Serengeti National Park",
 "Iguazu Falls",
 "Zhangjiajie National Forest Park",
-"Bora Bora"
+"Bora Bora",
+"Neuschwanstein Castle"
 ],
 "done_q": [
 "Q7343",
@@ -248,7 +249,8 @@
 "Q11812902",
 "Q36332",
 "Q3895620",
-"Q183113"
+"Q183113",
+"Q4152"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -312,8 +314,8 @@
 "Colosseum": 2,
 "Alhambra": 1,
 "Cinque Terre": 3,
-"Havasu Falls": 2,
-"Pantanal": 2,
+"Havasu Falls": 3,
+"Pantanal": 3,
 "Monument Valley": 2,
 "Waitomo Caves": 3,
 "Sk\u00f3gafoss": 1,
@@ -332,8 +334,8 @@
 "Geirangerfjord": 3,
 "Zugspitze": 2,
 "Golden Gate Bridge": 2,
-"Danakil Depression": 2,
-"Niagara Falls": 1
+"Danakil Depression": 3,
+"Niagara Falls": 2
 },
 "recent": [
 "SA",
@@ -344,6 +346,12 @@
 "OC"
 ],
 "day": "2026-11-23",
-"count": 1
+"count": 1,
+"_claim": [
+"Neuschwanstein Castle",
+"Q4152",
+"building",
+"27e0b3caf415"
+]
 }
 }
