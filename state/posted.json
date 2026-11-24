@@ -127,7 +127,8 @@
 "Neuschwanstein Castle",
 "Jiuzhaigou Valley",
 "Sugarloaf Mountain",
-"Lake Como"
+"Lake Como",
+"Socotra"
 ],
 "done_q": [
 "Q7343",
@@ -256,7 +257,8 @@
 "Q4152",
 "Q4111",
 "Q210722",
-"Q15523"
+"Q15523",
+"Q82859"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -295,7 +297,7 @@
 "Colca Canyon": 3,
 "Bungle Bungle Range": 3,
 "Cape of Good Hope": 3,
-"Cappadocia": 1,
+"Cappadocia": 2,
 "Merzouga": 3,
 "Eiffel Tower": 3,
 "Franz Josef Glacier": 3,
@@ -342,7 +344,9 @@
 "Golden Gate Bridge": 3,
 "Danakil Depression": 3,
 "Niagara Falls": 3,
-"Li River": 1
+"Li River": 2,
+"Hunza Valley": 1,
+"Sheikh Zayed Grand Mosque": 1
 },
 "recent": [
 "AS",
@@ -353,6 +357,12 @@
 "EU"
 ],
 "day": "2026-11-24",
-"count": 2
+"count": 2,
+"_claim": [
+"Socotra",
+"Q82859",
+"building",
+"606bb209ccc5"
+]
 }
 }
