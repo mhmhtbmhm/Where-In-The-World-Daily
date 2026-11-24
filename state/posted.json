@@ -125,7 +125,8 @@
 "Zhangjiajie National Forest Park",
 "Bora Bora",
 "Neuschwanstein Castle",
-"Jiuzhaigou Valley"
+"Jiuzhaigou Valley",
+"Sugarloaf Mountain"
 ],
 "done_q": [
 "Q7343",
@@ -252,7 +253,8 @@
 "Q3895620",
 "Q183113",
 "Q4152",
-"Q4111"
+"Q4111",
+"Q210722"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -322,7 +324,7 @@
 "Waitomo Caves": 3,
 "Sk\u00f3gafoss": 1,
 "Todgha Gorges": 3,
-"Mount Roraima": 2,
+"Mount Roraima": 3,
 "Vinicunca": 3,
 "Mount Olympus": 1,
 "Eisriesenwelt": 1,
@@ -330,12 +332,12 @@
 "Table Mountain": 3,
 "Lake Hillier": 3,
 "Gullfoss": 3,
-"Twelve Apostles (Victoria)": 2,
+"Twelve Apostles (Victoria)": 3,
 "Rock Islands Southern Lagoon": 3,
 "Bay of Fundy": 3,
 "Geirangerfjord": 3,
 "Zugspitze": 2,
-"Golden Gate Bridge": 2,
+"Golden Gate Bridge": 3,
 "Danakil Depression": 3,
 "Niagara Falls": 3,
 "Li River": 1
@@ -349,6 +351,12 @@
 "AS"
 ],
 "day": "2026-11-24",
-"count": 0
+"count": 0,
+"_claim": [
+"Sugarloaf Mountain",
+"Q210722",
+"building",
+"0fe609856379"
+]
 }
 }
