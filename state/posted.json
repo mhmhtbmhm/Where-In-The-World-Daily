@@ -349,20 +349,14 @@
 "Sheikh Zayed Grand Mosque": 1
 },
 "recent": [
-"AS",
 "OC",
 "EU",
 "AS",
 "SA",
-"EU"
+"EU",
+"AS"
 ],
 "day": "2026-11-24",
-"count": 2,
-"_claim": [
-"Socotra",
-"Q82859",
-"building",
-"606bb209ccc5"
-]
+"count": 3
 }
 }
