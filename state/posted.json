@@ -126,7 +126,8 @@
 "Bora Bora",
 "Neuschwanstein Castle",
 "Jiuzhaigou Valley",
-"Sugarloaf Mountain"
+"Sugarloaf Mountain",
+"Lake Como"
 ],
 "done_q": [
 "Q7343",
@@ -254,7 +255,8 @@
 "Q183113",
 "Q4152",
 "Q4111",
-"Q210722"
+"Q210722",
+"Q15523"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -315,18 +317,18 @@
 "Amalfi Coast": 3,
 "Cotopaxi": 2,
 "Cocora Valley": 3,
-"Colosseum": 2,
+"Colosseum": 3,
 "Alhambra": 1,
 "Cinque Terre": 3,
 "Havasu Falls": 3,
 "Pantanal": 3,
 "Monument Valley": 3,
 "Waitomo Caves": 3,
-"Sk\u00f3gafoss": 1,
+"Sk\u00f3gafoss": 2,
 "Todgha Gorges": 3,
 "Mount Roraima": 3,
 "Vinicunca": 3,
-"Mount Olympus": 1,
+"Mount Olympus": 2,
 "Eisriesenwelt": 1,
 "Blue Nile Falls": 3,
 "Table Mountain": 3,
@@ -336,7 +338,7 @@
 "Rock Islands Southern Lagoon": 3,
 "Bay of Fundy": 3,
 "Geirangerfjord": 3,
-"Zugspitze": 2,
+"Zugspitze": 3,
 "Golden Gate Bridge": 3,
 "Danakil Depression": 3,
 "Niagara Falls": 3,
@@ -351,6 +353,12 @@
 "SA"
 ],
 "day": "2026-11-24",
-"count": 1
+"count": 1,
+"_claim": [
+"Lake Como",
+"Q15523",
+"building",
+"6f7607369ce6"
+]
 }
 }
