@@ -310,7 +310,7 @@
 "Erg Chebbi": 3,
 "Pamukkale": 2,
 "Antarctic Peninsula": 3,
-"J\u00f6kuls\u00e1rl\u00f3n": 2,
+"J\u00f6kuls\u00e1rl\u00f3n": 3,
 "Drakensberg": 3,
 "Isle of Skye": 3,
 "Toubkal": 3,
@@ -322,7 +322,7 @@
 "Cotopaxi": 2,
 "Cocora Valley": 3,
 "Colosseum": 3,
-"Alhambra": 1,
+"Alhambra": 2,
 "Cinque Terre": 3,
 "Havasu Falls": 3,
 "Pantanal": 3,
@@ -332,7 +332,7 @@
 "Todgha Gorges": 3,
 "Mount Roraima": 3,
 "Vinicunca": 3,
-"Mount Olympus": 2,
+"Mount Olympus": 3,
 "Eisriesenwelt": 1,
 "Blue Nile Falls": 3,
 "Table Mountain": 3,
@@ -349,7 +349,9 @@
 "Li River": 2,
 "Hunza Valley": 1,
 "Sheikh Zayed Grand Mosque": 1,
-"Copper Canyon": 1
+"Copper Canyon": 2,
+"Milford Sound": 1,
+"Uluru": 1
 },
 "recent": [
 "EU",
