@@ -128,7 +128,8 @@
 "Jiuzhaigou Valley",
 "Sugarloaf Mountain",
 "Lake Como",
-"Socotra"
+"Socotra",
+"Lake Titicaca"
 ],
 "done_q": [
 "Q7343",
@@ -258,7 +259,8 @@
 "Q4111",
 "Q210722",
 "Q15523",
-"Q82859"
+"Q82859",
+"Q35342"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -346,7 +348,8 @@
 "Niagara Falls": 3,
 "Li River": 2,
 "Hunza Valley": 1,
-"Sheikh Zayed Grand Mosque": 1
+"Sheikh Zayed Grand Mosque": 1,
+"Copper Canyon": 1
 },
 "recent": [
 "OC",
@@ -356,7 +359,13 @@
 "EU",
 "AS"
 ],
-"day": "2026-11-24",
-"count": 3
+"day": "2026-11-25",
+"count": 0,
+"_claim": [
+"Lake Titicaca",
+"Q35342",
+"building",
+"9a551af8d187"
+]
 }
 }
