@@ -352,20 +352,14 @@
 "Copper Canyon": 1
 },
 "recent": [
-"OC",
 "EU",
 "AS",
 "SA",
 "EU",
-"AS"
+"AS",
+"SA"
 ],
 "day": "2026-11-25",
-"count": 0,
-"_claim": [
-"Lake Titicaca",
-"Q35342",
-"building",
-"9a551af8d187"
-]
+"count": 1
 }
 }
