@@ -129,7 +129,8 @@
 "Sugarloaf Mountain",
 "Lake Como",
 "Socotra",
-"Lake Titicaca"
+"Lake Titicaca",
+"Lake Tahoe"
 ],
 "done_q": [
 "Q7343",
@@ -260,7 +261,8 @@
 "Q210722",
 "Q15523",
 "Q82859",
-"Q35342"
+"Q35342",
+"Q169962"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -350,9 +352,9 @@
 "Hunza Valley": 1,
 "Sheikh Zayed Grand Mosque": 1,
 "Copper Canyon": 3,
-"Milford Sound": 2,
-"Uluru": 2,
-"Mount Kenya": 1
+"Milford Sound": 3,
+"Uluru": 3,
+"Mount Kenya": 2
 },
 "recent": [
 "EU",
@@ -363,6 +365,12 @@
 "SA"
 ],
 "day": "2026-11-25",
-"count": 1
+"count": 1,
+"_claim": [
+"Lake Tahoe",
+"Q169962",
+"building",
+"f41312bbd615"
+]
 }
 }
