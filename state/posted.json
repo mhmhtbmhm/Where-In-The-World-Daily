@@ -357,20 +357,14 @@
 "Mount Kenya": 2
 },
 "recent": [
-"EU",
 "AS",
 "SA",
 "EU",
 "AS",
-"SA"
+"SA",
+"NA"
 ],
 "day": "2026-11-25",
-"count": 1,
-"_claim": [
-"Lake Tahoe",
-"Q169962",
-"building",
-"f41312bbd615"
-]
+"count": 2
 }
 }
