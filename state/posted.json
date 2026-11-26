@@ -271,9 +271,9 @@
 "Sossusvlei": 3,
 "Antelope Canyon": 3,
 "Mont Blanc": 3,
-"Annapurna": 2,
+"Annapurna": 3,
 "Mount Kilimanjaro": 3,
-"Gardens by the Bay": 1,
+"Gardens by the Bay": 2,
 "Mount Fitz Roy": 3,
 "Great Mosque of Djenn\u00e9": 3,
 "Phi Phi Islands": 3,
@@ -293,7 +293,7 @@
 "Venice": 3,
 "Maldives": 3,
 "Registan": 3,
-"Raja Ampat Islands": 2,
+"Raja Ampat Islands": 3,
 "Kaieteur Falls": 3,
 "Cabo da Roca": 3,
 "Bran Castle": 3,
@@ -301,7 +301,7 @@
 "Colca Canyon": 3,
 "Bungle Bungle Range": 3,
 "Cape of Good Hope": 3,
-"Cappadocia": 2,
+"Cappadocia": 3,
 "Merzouga": 3,
 "Eiffel Tower": 3,
 "Franz Josef Glacier": 3,
@@ -348,9 +348,9 @@
 "Golden Gate Bridge": 3,
 "Danakil Depression": 3,
 "Niagara Falls": 3,
-"Li River": 2,
+"Li River": 3,
 "Hunza Valley": 1,
-"Sheikh Zayed Grand Mosque": 1,
+"Sheikh Zayed Grand Mosque": 2,
 "Copper Canyon": 3,
 "Milford Sound": 3,
 "Uluru": 3,
@@ -364,7 +364,7 @@
 "SA",
 "NA"
 ],
-"day": "2026-11-25",
-"count": 2
+"day": "2026-11-26",
+"count": 0
 }
 }
