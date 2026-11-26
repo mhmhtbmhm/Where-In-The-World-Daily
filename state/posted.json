@@ -131,7 +131,8 @@
 "Socotra",
 "Lake Titicaca",
 "Lake Tahoe",
-"Mount Everest"
+"Mount Everest",
+"Burj Khalifa"
 ],
 "done_q": [
 "Q7343",
@@ -264,7 +265,8 @@
 "Q82859",
 "Q35342",
 "Q169962",
-"Q513"
+"Q513",
+"Q12495"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -323,7 +325,7 @@
 "Mount Kinabalu": 3,
 "Hegra Archaeological Site": 3,
 "Amalfi Coast": 3,
-"Cotopaxi": 2,
+"Cotopaxi": 3,
 "Cocora Valley": 3,
 "Colosseum": 3,
 "Alhambra": 3,
@@ -337,7 +339,7 @@
 "Mount Roraima": 3,
 "Vinicunca": 3,
 "Mount Olympus": 3,
-"Eisriesenwelt": 1,
+"Eisriesenwelt": 2,
 "Blue Nile Falls": 3,
 "Table Mountain": 3,
 "Lake Hillier": 3,
@@ -351,12 +353,13 @@
 "Danakil Depression": 3,
 "Niagara Falls": 3,
 "Li River": 3,
-"Hunza Valley": 1,
+"Hunza Valley": 2,
 "Sheikh Zayed Grand Mosque": 3,
 "Copper Canyon": 3,
 "Milford Sound": 3,
 "Uluru": 3,
-"Mount Kenya": 2
+"Mount Kenya": 3,
+"Aconcagua": 1
 },
 "recent": [
 "SA",
@@ -367,6 +370,12 @@
 "AS"
 ],
 "day": "2026-11-26",
-"count": 1
+"count": 1,
+"_claim": [
+"Burj Khalifa",
+"Q12495",
+"building",
+"b55a62b84e96"
+]
 }
 }
