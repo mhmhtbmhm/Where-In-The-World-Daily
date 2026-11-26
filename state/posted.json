@@ -359,20 +359,14 @@
 "Mount Kenya": 2
 },
 "recent": [
-"AS",
 "SA",
 "EU",
 "AS",
 "SA",
-"NA"
+"NA",
+"AS"
 ],
 "day": "2026-11-26",
-"count": 0,
-"_claim": [
-"Mount Everest",
-"Q513",
-"building",
-"5191f310daa3"
-]
+"count": 1
 }
 }
