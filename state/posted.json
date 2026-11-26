@@ -130,7 +130,8 @@
 "Lake Como",
 "Socotra",
 "Lake Titicaca",
-"Lake Tahoe"
+"Lake Tahoe",
+"Mount Everest"
 ],
 "done_q": [
 "Q7343",
@@ -262,7 +263,8 @@
 "Q15523",
 "Q82859",
 "Q35342",
-"Q169962"
+"Q169962",
+"Q513"
 ],
 "fail": {
 "Mount Nyiragongo": 3,
@@ -273,7 +275,7 @@
 "Mont Blanc": 3,
 "Annapurna": 3,
 "Mount Kilimanjaro": 3,
-"Gardens by the Bay": 2,
+"Gardens by the Bay": 3,
 "Mount Fitz Roy": 3,
 "Great Mosque of Djenn\u00e9": 3,
 "Phi Phi Islands": 3,
@@ -310,7 +312,7 @@
 "Matterhorn": 3,
 "Mount Bromo": 3,
 "Erg Chebbi": 3,
-"Pamukkale": 2,
+"Pamukkale": 3,
 "Antarctic Peninsula": 3,
 "J\u00f6kuls\u00e1rl\u00f3n": 3,
 "Drakensberg": 3,
@@ -350,7 +352,7 @@
 "Niagara Falls": 3,
 "Li River": 3,
 "Hunza Valley": 1,
-"Sheikh Zayed Grand Mosque": 2,
+"Sheikh Zayed Grand Mosque": 3,
 "Copper Canyon": 3,
 "Milford Sound": 3,
 "Uluru": 3,
@@ -365,6 +367,12 @@
 "NA"
 ],
 "day": "2026-11-26",
-"count": 0
+"count": 0,
+"_claim": [
+"Mount Everest",
+"Q513",
+"building",
+"5191f310daa3"
+]
 }
 }
